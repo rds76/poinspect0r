@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-14 21:03+0200\n"
+"PO-Revision-Date: 2018-06-14 21:44+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,55 +149,55 @@ msgid "Volume ID:"
 msgstr "ID jednotky:"
 
 msgid "ISO creating progress:"
-msgstr "Proces vytváření ISO:"
+msgstr "Proces vytváření ISO obrazu:"
 
 msgid "- use different ID from  navi map"
 msgstr "- usar un ID diferente desde navi map"
 
 msgid "Burning progress:"
-msgstr "Proceso de grabación:"
+msgstr "Proces vypalování:"
 
 msgid "DVD-RW:"
 msgstr "DVD-RW:"
 
 msgid "Default language:"
-msgstr "Lenguaje por defecto:"
+msgstr "Výchozí jazyk:"
 
 msgid "Orig.vol ID:"
 msgstr "Orig. Vol ID:"
 
 msgid "Start"
-msgstr "Empezar"
+msgstr "Start"
 
 msgid "Burn image"
-msgstr "Grabar imagen"
+msgstr "Vypal obraz"
 
 msgid "Show log"
-msgstr "Mostrar registros (logs):"
+msgstr "Zobraz log:"
 
 msgid "Original volume ID from DVD map"
 msgstr "ID original del DVD de mapas"
 
 msgid "Donate !!!"
-msgstr "¡¡¡¡ Donar !!!!"
+msgstr "¡¡¡¡ Přispěj !!!!"
 
 msgid "ID code:"
-msgstr "Código de ID:"
+msgstr "ID kód:"
 
 msgid "Info"
-msgstr "Info"
+msgstr "Informace"
 
 msgid "DV"
 msgstr "DV"
 
 msgid "Donate"
-msgstr "Donar"
+msgstr "Přispěj"
 
 msgid "Enter SN"
-msgstr "Introduzca el Número de Serie"
+msgstr "Zadej sériové číslo"
 
 msgid "Online SN registration"
-msgstr "Registo online del Número de Serie"
+msgstr "Registrace sériového čísla online"
 
 msgid "Online SN registration - how to"
 msgstr "Registrace produktu online - jak na to"
@@ -206,7 +206,7 @@ msgid "Build in DVD POIs"
 msgstr "Crear DVD de POIs"
 
 msgid "Disk/Folder:"
-msgstr "Disco/Carpeta:"
+msgstr "Disk/Složka:"
 
 msgid "Lang:"
 msgstr "Jazyk:"
@@ -221,10 +221,10 @@ msgid "Mutli rebuild"
 msgstr "Hromadná aktualizace"
 
 msgid "Create ISO && Burn DVD"
-msgstr "Crear ISO y grabar el DVD"
+msgstr "Vytvoř ISO a vypal DVD"
 
 msgid "Area:"
-msgstr "Área:"
+msgstr "Plocha:"
 
 msgid "Version:"
 msgstr "Verze:"
@@ -239,19 +239,19 @@ msgid "Select RNS510 DVD map disc/folder"
 msgstr "Seleccione el disco/carpeta del DVD de mapas RNS510"
 
 msgid "Detail"
-msgstr "Detalles"
+msgstr "Detail"
 
 msgid "Category ID:"
-msgstr "ID de la categoría:"
+msgstr "ID kategorie:"
 
 msgid "Category name:"
-msgstr "Nombre de la categoría:"
+msgstr "Název kategorie:"
 
 msgid "Involved lines:"
-msgstr "Lineas involucradas:"
+msgstr "Zapojeno řádků:"
 
 msgid "Icon file:"
-msgstr "Fichero de icono:"
+msgstr "Soubor ikony:"
 
 msgid "Search attrib. values (from SADESC):"
 msgstr "Buscar los valores de atributos (desde SADESC):"
@@ -260,13 +260,13 @@ msgid "List attrib. values (from IADESC):"
 msgstr "Mostar los valores de atributos (desde IADESC):"
 
 msgid "Search form:"
-msgstr "Buscar desde:"
+msgstr "Hledej od:"
 
 msgid "URL/IDX:"
 msgstr "URL/IDX:"
 
 msgid "Is group category:"
-msgstr "Es una categoría de grupo:"
+msgstr "Je skupinová kategorie:"
 
 msgid "SF"
 msgstr "SF"
@@ -275,85 +275,85 @@ msgid "ST"
 msgstr "ST"
 
 msgid "DB3 POIs"
-msgstr "DB3 POIs"
+msgstr "DB3 POI"
 
 msgid "DB3 file:"
-msgstr "Fichero DB3:"
+msgstr "Soubor DB3:"
 
 msgid "Created:"
-msgstr "Creado:"
+msgstr "Vytvořeno:"
 
 msgid "DB ID:"
 msgstr "BD ID:"
 
 msgid "Core ver.:"
-msgstr "Versión Core:"
+msgstr "Verze jádra:"
 
 msgid "POI ver.:"
-msgstr "Versión POIs:"
+msgstr "Verze POI:"
 
 msgid "Icon set:"
-msgstr "Conjunto de iconos:"
+msgstr "Sada ikon:"
 
 msgid "New"
-msgstr "Nuevo"
+msgstr "Nový"
 
 msgid "Reload"
-msgstr "Recargar"
+msgstr "Znovunačtení"
 
 msgid "Tools"
-msgstr "Herramientas"
+msgstr "Nástroje"
 
 msgid "SQLlite files (*.db3)|*.db3"
-msgstr "Fichero SQLlite (*.db3)|*.db3"
+msgstr "Soubory SQLlite (*.db3)|*.db3"
 
 msgid "POI list"
-msgstr "Lista de POIs"
+msgstr "Seznam POI"
 
 msgid "Zoom level:"
-msgstr "Nivel de zoom:"
+msgstr "Zoom:"
 
 msgid "Total rec. count:"
-msgstr "Total de registros:"
+msgstr "Celkem záznamů:"
 
 msgid "Select columns"
-msgstr "Seleccionar columnas"
+msgstr "Vyber sloupce"
 
 msgid "&OK"
 msgstr "&OK"
 
 msgid "At least one column must be visible!"
-msgstr "¡Al menos una columna debe estar visible!"
+msgstr "Nejméně jeden sloupec musí být viditelný!"
 
 msgid "Name"
-msgstr "Nombre"
+msgstr "Název"
 
 msgid "Map"
 msgstr "Mapa"
 
 msgid "Locate on click only"
-msgstr "Ubicar sólo en la zona del click"
+msgstr "Lokalizuj pouze na klik"
 
 msgid "Enter search text..."
-msgstr "Introduzca texto a buscar..."
+msgstr "Zadej hledaný text..."
 
 msgid "Add POI/group category"
-msgstr "Añadir categoría de POI/grupo"
+msgstr "Přidej POI/skupinu kategorií"
 
 msgid "- after selected poi"
-msgstr "- despues de poi seleccionado"
+msgstr "- před"
 
 msgid "- before selected poi"
-msgstr "- antes de poi seleccionado"
+msgstr "- po"
 
 msgid "- as 1st child of selected group"
-msgstr "- como primera categoría hija del grupo seleccionado"
+msgstr "- jako 1. ve skupině"
 
 msgid "Link POI|cat - Copy/Paste"
-msgstr "Enlazar POI|cat. - Copiar y Pegar"
+msgstr "Spoj POI|kat. - Kopíruj/Vlož"
 
 msgid "Copy selected"
-msgstr "Copiar seleccionado"
+msgstr "Kopíruj vybrané"
 
 msgid "Paste after selected"
 msgstr "Pegar después de seleccionar"
@@ -380,37 +380,37 @@ msgid "Unlink all occurences"
 msgstr "Desconectar todas las apariciones"
 
 msgid "Delete"
-msgstr "Borrar"
+msgstr "Smaž"
 
 msgid "Rebuild new IDX/URL"
 msgstr "Reconstruir nuevo IDX/URL"
 
 msgid "Save"
-msgstr "Guardar"
+msgstr "Ulož"
 
 msgid "Open POI data file"
-msgstr "Abrir fichero de datos de POIs"
+msgstr "Otevři datový soubor POI"
 
 msgid "Category ID"
-msgstr "ID Categoría"
+msgstr "ID Kategorie"
 
 msgid "Icon ID"
-msgstr "ID Símbolo"
+msgstr "ID ikony"
 
 msgid "Image ID"
-msgstr "ID Imagen"
+msgstr "ID obrázku"
 
 msgid "Category name"
-msgstr "Nombre de la categoría"
+msgstr "Název kategorie"
 
 msgid "Height"
-msgstr "Altura"
+msgstr "Výška"
 
 msgid "Width"
-msgstr "Anchura"
+msgstr "Šířka"
 
 msgid "Icon Name"
-msgstr "Nombre del icono"
+msgstr "Název ikony"
 
 msgid "PoiID"
 msgstr "PoiID"
@@ -425,7 +425,7 @@ msgid "_ID"
 msgstr "_ID"
 
 msgid "House#"
-msgstr "Casa#"
+msgstr "ČP#"
 
 msgid "ISO Country"
 msgstr "ISO del país"
@@ -461,7 +461,7 @@ msgid "Icons..."
 msgstr "Ikony..."
 
 msgid "Batch POI rebuild..."
-msgstr "Regenerar conjunto de POIs..."
+msgstr "Skupinová aktualizace POI bodů..."
 
 msgid "Transfer current DB to SD card"
 msgstr "Přenos/export stávající DB na SD kartu"
@@ -482,7 +482,7 @@ msgid "STATUS"
 msgstr "STATUS"
 
 msgid "Imported POI list preview"
-msgstr "Importar lista de previsualización de POIs"
+msgstr "Náhled importovaných POI bodů"
 
 msgid "# of POIs: "
 msgstr "#  POI:"
@@ -494,13 +494,13 @@ msgid "Lat"
 msgstr "Lat"
 
 msgid "Progress"
-msgstr "Progreso"
+msgstr "Postup"
 
 msgid "Parsing..."
-msgstr "Analizando..."
+msgstr "Zpracovávám..."
 
 msgid "Main"
-msgstr "Principal"
+msgstr "Hlavní"
 
 msgid "Start from ID:"
 msgstr "Iniciar desde ID:"
@@ -509,19 +509,19 @@ msgid "Output IDX/URL:"
 msgstr "Fichero IDX/URL:"
 
 msgid "POI data encoding"
-msgstr "Codificación de los datos POI"
+msgstr "Kódování POI dat"
 
 msgid "Input files"
-msgstr "Añadir ficheros"
+msgstr "Vstupní soubory"
 
 msgid "Transfer to SD card"
-msgstr "Transferir a la tarjeta SD"
+msgstr "Přenos na kartu SD"
 
 msgid "Select SD card:"
-msgstr "Seleccionar tarjeta SD:"
+msgstr "Vyber kartu SD:"
 
 msgid "Final DB path:"
-msgstr "Ruta para la BD:"
+msgstr "Cílová cesta DB:"
 
 msgid "Missing TPD-UPI tag!"
 msgstr "¡Falta etiqueta TPD-UPI!"
@@ -539,10 +539,10 @@ msgid "Can't find TABLES folder!"
 msgstr "¡No es posible encontar la carpeta de las TABLAS!"
 
 msgid "Category has no POIs!"
-msgstr "¡La categoría no tiene ningún POI!"
+msgstr "Kategorie nobsahuje POI!"
 
 msgid "Can't add poi here!"
-msgstr "¡Imposible añadir POIs aquí!"
+msgstr "Nelze zde přidat POI!"
 
 msgid "Can't add poi here. Only group category is allowed here!"
 msgstr "¡No se pueden añadir POIs aquí. Sólamente está permitido añadir grupo de categorías aquí!"
@@ -554,34 +554,34 @@ msgid "Add POI done."
 msgstr "POI přidány."
 
 msgid "Saved."
-msgstr "Guardado."
+msgstr "Uloženo."
 
 msgid "Can't put poi here. Only group category are allowed here!"
-msgstr "¡Imposible añadir POIs aquí. Sólamente está permitidos grupos de categorías aquí!"
+msgstr "Nelze vložit POI zde. Pouze skupina kategorií je zde povolena!"
 
 msgid "Rebuild done."
-msgstr "Reconstrucción completada."
+msgstr "Rekonstrukce dokončena."
 
 msgid "Files:"
-msgstr "Ficheros:"
+msgstr "Soubory:"
 
 msgid "Error"
 msgstr "Chyba"
 
 msgid "Cannot move category to category containing POIs!"
-msgstr "¡Imposible mover la categoría a otra categoría que ya contenga POIs!"
+msgstr "Nelze přesunout kategorii do kategorie obsahující POI!"
 
 msgid "Nothing to burn!"
-msgstr "¡No hay nada que grabar!"
+msgstr "Nic k vypálení!"
 
 msgid "DB file '%s' not found!"
 msgstr "Databázový soubor '%s' nenalezen!"
 
 msgid "Cannot find require SQLite driver"
-msgstr "No es posible encontrar el controlador SQLite requerido"
+msgstr "Nemohu najít potřebný SQLite ovladač"
 
 msgid "Missing file 'customPOI.base'! Get latest proper version."
-msgstr "¡Falta el fichero 'customPOI.base'!  Consiga la última versión apropiada."
+msgstr "Chybí soubor 'customPOI.base'! Získej poslední řádnou verzi."
 
 msgid "New db"
 msgstr "Nová DB"
@@ -590,13 +590,13 @@ msgid "Enter new db3 filename"
 msgstr "Zadej název nového db3 souboru"
 
 msgid "File '%s' already exists! Pick different name."
-msgstr "¡El fichero '%s' ya existe! Elija un nombre diferente."
+msgstr "Soubor '%s' existuje! Vyber jiný název."
 
 msgid "Entire database has been succesfully rebuilded."
-msgstr "La base de datos ha sido reconstruida completamente con éxito."
+msgstr "Celá databáze byla úspěšně rekonstruována."
 
 msgid "Cannot add child category to category containing POIs!"
-msgstr "¡No se puede añadir una categoría hija a una categoría que ya contenga POIs!"
+msgstr "Nelze přidat kategorií jako potomka který obsahuje POI body!"
 
 msgid "File '"
 msgstr "Soubor '"
@@ -612,8 +612,8 @@ msgid ""
 "No input file found! [%s]\n"
 "Create it or use addPOI with this feature."
 msgstr ""
-"¡Fichero de entrada no encontrado! [%s]\n"
-"Creelo o use addPOI con esta opción."
+"Nenalezen vstupní soubor! [%s]\n"
+"Vytvoř jej nebo přidej POI s touto vlastností."
 
 msgid "Rebuild (vacuum) entire DB and copy to SD card?"
 msgstr "Optimalizovat (vacuum) celou databáze a zkopírovat na SD kartu?"
@@ -629,19 +629,19 @@ msgstr ""
 "Vyjmi kartu vezmi ji do auta :-)"
 
 msgid "Are you sure to unlink selected item?"
-msgstr "¿Está seguro que desea eliminar los objetos seleccionados?"
+msgstr "Opravdu odpojit vybrané položky?"
 
 msgid "Can't unlink POI!"
-msgstr "¡No se puede eliminar los POIs!"
+msgstr "Nemohu odpojit POI!"
 
 msgid "Unlink POI done."
-msgstr "Eliminación del POI completada."
+msgstr "Odpojení POI provedeno."
 
 msgid "Unlink POIs done."
-msgstr "Eliminación de los POIs completada."
+msgstr "Odpojení POI bodů provedeno."
 
 msgid "Are you sure to unlink all occurences of selected item?"
-msgstr "¿Está seguro que desear eliminaciones todas las instancias de los objetos seleccionados?"
+msgstr "Skutečně odpojit všechny výskyty vybrané položky?"
 
 msgid "Delete POI done."
 msgstr "POI smazány."
@@ -650,7 +650,7 @@ msgid "Delete all pois for this category?"
 msgstr "Smazat všechny POI v této kategorii?"
 
 msgid "Icon details"
-msgstr "Detalles del icono"
+msgstr "Detail ikony"
 
 msgid "Image dimensions"
 msgstr "Rozměr obrázku"
@@ -659,22 +659,22 @@ msgid "Category details"
 msgstr "Detail kategorie"
 
 msgid "POI details"
-msgstr "Detaill POI"
+msgstr "Detail POI"
 
 msgid "Are you sure to delete selected item?"
 msgstr "Opravdu smazat vybrané položky?"
 
 msgid "Cannot delete this category!"
-msgstr "Nelye smazat tuto kategorii!"
+msgstr "Nelze smazat tuto kategorii!"
 
 msgid "Delete category '%s' ?"
 msgstr "Smazat kategorii '%s' ?"
 
 msgid "Cannot add POIs to parent category!"
-msgstr "¡No es posible añadir POIs a la categoría padre!"
+msgstr "Nelze přidat POI do kategorie s potomky!"
 
 msgid "[Unlinked items]"
-msgstr "[Objetos eliminados]"
+msgstr "[Nepropojené položky]"
 
 msgid "Fill all required values!"
 msgstr "Vyplň povinné údaje!"
@@ -713,7 +713,7 @@ msgid "Wrong image size (34x39)! File:"
 msgstr "Špatná velikost obrázku (34x39)! Soubor:"
 
 msgid "Make sure you have inserted empty DVD disk in dvd drive %s !"
-msgstr "¡Asegúrese que haya introducido un DVD en blanco en su grabadora de DVD´s %s !"
+msgstr "Ujisti se, že jsi vložil prázdný disk DVD do jednotky %s !"
 
 msgid "DONE."
 msgstr "HOTOVO."
@@ -746,22 +746,22 @@ msgid "Response error:"
 msgstr "Chyba odpovědi:"
 
 msgid "building..."
-msgstr "generando..."
+msgstr "vytvářím..."
 
 msgid "done."
 msgstr "hotovo."
 
 msgid "ID not found."
-msgstr "ID no encontrado."
+msgstr "ID nenalezeno."
 
 msgid "file not found."
-msgstr "fichero no encontrado."
+msgstr "soubor nenalezen."
 
 msgid "skipped"
-msgstr "ignorado"
+msgstr "přeskočeno"
 
 msgid "Unknown file extension!"
-msgstr "¡Extensión de fichero desconodida!"
+msgstr "Neznámá přípona souboru!"
 
 msgid "Language"
 msgstr "Jazyk"

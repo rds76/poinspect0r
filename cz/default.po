@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-13 20:58+0200\n"
+"PO-Revision-Date: 2018-06-14 20:55+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -107,7 +107,7 @@ msgid "Batch POI rebuild"
 msgstr "Hromadná aktualizace POI bodů"
 
 msgid "All POIs for categories listed below will be deleted and replaced with new one!"
-msgstr "Všechny POI body pro kategorie zobrazené níže budou smazány a nahrazeny novými"
+msgstr "Všechny POI body pro kategorie zobrazené níže budou smazány a nahrazeny novými!"
 
 msgid "Run batch!"
 msgstr "Spusť hromadný!"
@@ -200,7 +200,7 @@ msgid "Online SN registration"
 msgstr "Registo online del Número de Serie"
 
 msgid "Online SN registration - how to"
-msgstr "¿Cómo se registra online el Número de Serie?"
+msgstr "Registrace produktu online - jak na to"
 
 msgid "Build in DVD POIs"
 msgstr "Crear DVD de POIs"
@@ -416,10 +416,10 @@ msgid "PoiID"
 msgstr "PoiID"
 
 msgid "Latitude"
-msgstr "Latitud"
+msgstr "Latitude"
 
 msgid "Longitude"
-msgstr "Longitud"
+msgstr "Longitude"
 
 msgid "_ID"
 msgstr "_ID"
@@ -431,61 +431,61 @@ msgid "ISO Country"
 msgstr "ISO del país"
 
 msgid "Phone#"
-msgstr "Teléfono"
+msgstr "Telefonní č."
 
 msgid "Add category"
-msgstr "Añadir categoría"
+msgstr "Přidej kategorii"
 
 msgid "- as sibling"
-msgstr "- como categoría al mismo nivel"
+msgstr "- jako sousední"
 
 msgid "- as child"
-msgstr "- como categoría hija"
+msgstr "- jako potek"
 
 msgid "Edit category"
-msgstr "Editar categoría"
+msgstr "Uprav kategorii"
 
 msgid "Delete category"
-msgstr "Eliminar categoría"
+msgstr "Smaž kategorii"
 
 msgid "Add POIs"
-msgstr "Añadir POIs"
+msgstr "Přidat POIs"
 
 msgid "Delete POIs"
-msgstr "Eliminar POIs"
+msgstr "Smazat POIs"
 
 msgid "Extract POIs"
-msgstr "Extraer POIs"
+msgstr "Export POIs do asc"
 
 msgid "Icons..."
-msgstr "Iconos..."
+msgstr "Ikony..."
 
 msgid "Batch POI rebuild..."
 msgstr "Regenerar conjunto de POIs..."
 
 msgid "Transfer current DB to SD card"
-msgstr "Exportar BD actual a la tarjeta SD"
+msgstr "Přenos/export stávající DB na SD kartu"
 
 msgid "Vacuum current DB"
-msgstr "Limpar la BD actual"
+msgstr "Vacuum aktuální BD"
 
 msgid "Select SD card disk"
-msgstr "Seleccione tarjeta SD"
+msgstr "Vyber SD kartu"
 
 msgid "Multiple rebuild IDX/URL"
 msgstr "Reconstruir multiples IDX/URL"
 
 msgid "Path"
-msgstr "Camino"
+msgstr "Cesta"
 
 msgid "STATUS"
-msgstr "ESTADO"
+msgstr "STATUS"
 
 msgid "Imported POI list preview"
 msgstr "Importar lista de previsualización de POIs"
 
 msgid "# of POIs: "
-msgstr "# de POIs:"
+msgstr "#  POI:"
 
 msgid "Lon"
 msgstr "Lon"
@@ -551,7 +551,7 @@ msgid "Icon name %s already exists in map, going to use existing one."
 msgstr "El nombre de icono %s ya existente en el mapa, va a ser usado el existente."
 
 msgid "Add POI done."
-msgstr "Completada la importación de POIs."
+msgstr "POI přidány."
 
 msgid "Saved."
 msgstr "Guardado."
@@ -566,7 +566,7 @@ msgid "Files:"
 msgstr "Ficheros:"
 
 msgid "Error"
-msgstr "Error"
+msgstr "Chyba"
 
 msgid "Cannot move category to category containing POIs!"
 msgstr "¡Imposible mover la categoría a otra categoría que ya contenga POIs!"
@@ -575,7 +575,7 @@ msgid "Nothing to burn!"
 msgstr "¡No hay nada que grabar!"
 
 msgid "DB file '%s' not found!"
-msgstr "¡Fichero de la base de dados '%s' no encontrado!"
+msgstr "Databázový soubor '%s' nenalezen!"
 
 msgid "Cannot find require SQLite driver"
 msgstr "No es posible encontrar el controlador SQLite requerido"
@@ -584,10 +584,10 @@ msgid "Missing file 'customPOI.base'! Get latest proper version."
 msgstr "¡Falta el fichero 'customPOI.base'!  Consiga la última versión apropiada."
 
 msgid "New db"
-msgstr "Nueva base de dados"
+msgstr "Nová DB"
 
 msgid "Enter new db3 filename"
-msgstr "Introduza el nombre para el fichero db3"
+msgstr "Zadej název nového db3 souboru"
 
 msgid "File '%s' already exists! Pick different name."
 msgstr "¡El fichero '%s' ya existe! Elija un nombre diferente."
@@ -599,14 +599,14 @@ msgid "Cannot add child category to category containing POIs!"
 msgstr "¡No se puede añadir una categoría hija a una categoría que ya contenga POIs!"
 
 msgid "File '"
-msgstr "Fichero '"
+msgstr "Soubor '"
 
 msgid ""
 "' not found!\n"
 "Add some POIs 1st."
 msgstr ""
-"' ¡no encontado!\n"
-"Primero añada algunos POIs."
+"' nenalezen!\n"
+"Přidej nejdříve nějaké POIs."
 
 msgid ""
 "No input file found! [%s]\n"
@@ -616,17 +616,17 @@ msgstr ""
 "Creelo o use addPOI con esta opción."
 
 msgid "Rebuild (vacuum) entire DB and copy to SD card?"
-msgstr "¿Reconstruir (optimizando) completamente la base de dados y copiarla a la tarjeta SD?"
+msgstr "Optimalizovat (vacuum) celou databáze a zkopírovat na SD kartu?"
 
 msgid "File '%s' already exists. Remove the file then repeat action!"
-msgstr "El fichero '%s' ya existe. ¡Borre el fichero y intentelo de nuevo!"
+msgstr "Soubor '%s' již existuje. Odstraň soubor a opakuj akci!"
 
 msgid ""
 "Succesfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
-"Copiado correctamente como '%s'.\n"
-"Extraiga la tarjeta SD e introdúzcala en el lector de tarjeta de su coche... :-)"
+"Úspěšně zkopírováno jako '%s'.\n"
+"Vyjmi kartu vezmi ji do auta :-)"
 
 msgid "Are you sure to unlink selected item?"
 msgstr "¿Está seguro que desea eliminar los objetos seleccionados?"
@@ -644,31 +644,31 @@ msgid "Are you sure to unlink all occurences of selected item?"
 msgstr "¿Está seguro que desear eliminaciones todas las instancias de los objetos seleccionados?"
 
 msgid "Delete POI done."
-msgstr "POI borrado."
+msgstr "POI smazány."
 
 msgid "Delete all pois for this category?"
-msgstr "¿Borrar todos los POIs de esta categoría?"
+msgstr "Smazat všechny POI v této kategorii?"
 
 msgid "Icon details"
 msgstr "Detalles del icono"
 
 msgid "Image dimensions"
-msgstr "Tamaño de la imagen"
+msgstr "Rozměr obrázku"
 
 msgid "Category details"
-msgstr "Detalles de la categoría"
+msgstr "Detail kategorie"
 
 msgid "POI details"
-msgstr "Detalles del POI"
+msgstr "Detaill POI"
 
 msgid "Are you sure to delete selected item?"
-msgstr "¿Está seguro de eliminar los objetos seleccionados?"
+msgstr "Opravdu smazat vybrané položky?"
 
 msgid "Cannot delete this category!"
-msgstr "¡No se puede borrar esta categoría!"
+msgstr "Nelye smazat tuto kategorii!"
 
 msgid "Delete category '%s' ?"
-msgstr "¿Borrar categoría '%s' ?"
+msgstr "Smazat kategorii '%s' ?"
 
 msgid "Cannot add POIs to parent category!"
 msgstr "¡No es posible añadir POIs a la categoría padre!"
@@ -677,81 +677,79 @@ msgid "[Unlinked items]"
 msgstr "[Objetos eliminados]"
 
 msgid "Fill all required values!"
-msgstr "¡Complete todos los valores requeridos!"
+msgstr "Vyplň povinné údaje!"
 
 msgid "Icon name '%s' already exist, select another name!"
-msgstr "El nombre del icono '%s' ya existe, ¡Seleccione otro nombre!"
+msgstr "Ikona s tímto názvem '%s' existuje!, Vyber jinou!"
 
 msgid "Ready."
-msgstr "Listo."
+msgstr "Připraveno."
 
 msgid "File not found!"
-msgstr "¡Fichero no encontrado!"
+msgstr "Soubor neexistuje!"
 
 msgid "Category not found!"
-msgstr "¡Categoría no encontrada!"
+msgstr "Kategorie neexistuje!"
 
 msgid "Clearing old POIs..."
-msgstr "Eliminando POIs antiguos..."
+msgstr "Mažu staré POI..."
 
 msgid "Importing POIs..."
-msgstr "Importando POIs..."
+msgstr "ImportujiPOIs..."
 
 msgid "Done."
-msgstr "Hecho."
+msgstr "Hotovo."
 
 msgid "Skipped."
-msgstr "Ignorado."
+msgstr "Přeskočeno."
 
 msgid "Batch job finished!"
-msgstr "¡Tarea finalizada!"
+msgstr "Hromadná aktualizace ukončena!"
 
 msgid "Icon name '%s' already exists!"
-msgstr "¡El nombre de icono '%s' ya existe!"
+msgstr "Ikona s tímto názvem '%s' existuje!"
 
 msgid "Wrong image size (34x39)! File:"
-msgstr "¡Tamaño de imagem erróneo (34x39)! Fichero:"
+msgstr "Špatná velikost obrázku (34x39)! Soubor:"
 
 msgid "Make sure you have inserted empty DVD disk in dvd drive %s !"
 msgstr "¡Asegúrese que haya introducido un DVD en blanco en su grabadora de DVD´s %s !"
 
 msgid "DONE."
-msgstr "HECHO."
+msgstr "HOTOVO."
 
 msgid "Wait (%ds)"
-msgstr "Espere (%ds)"
+msgstr "Čekej (%ds)"
 
 msgid ""
 "To avoid this message and to get full functionality,  donate at least %s.           I guess, that it "
 "doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
-"Para evitar que este mensaje aparezca y poder disfrutar de todas las funciones de esta aplicación, por "
-"favor realice una donación de al menos %s.Creo que dicha donación no le arruinará, y podrá contribuir al "
-"futuro desarrollo de este programa.\n"
-"Tras realizar la donación, podrá completar el registro online con el número de la transacción de Paypal "
-"que le habrá sido asignada.¡Muchas gracias!"
+"Nechceš-li vidět tuto zprávu a chceš plnou funkncionalitu_,  přispěj alespoň %s.           Myslím že tě "
+"to nezruinuje a podpoříš další vývoj.\n"
+"Pak si můžes produkt zaregistrovat online s Paypal číslem transakce."
 
 msgid "Serial:"
-msgstr "Número de Serie:"
+msgstr "Seriálové číslo:"
 
 msgid "Please restart application."
-msgstr "Por favor, reinicie la aplicación."
+msgstr "Restartuj aplikaci prosím."
 
 msgid "Registration"
-msgstr "Registo"
+msgstr "Registrace"
 
 msgid "Enter PayPal transaction ID (Confirmation number)"
-msgstr "Introduzca el ID de la transacción de PayPal (Número de Confirmación)"
+msgstr "Vlož PayPal číslo transakce (Confirmation number)"
 
 msgid "Response error:"
-msgstr "Error de respuesta:"
+msgstr "Chyba odpovědi:"
 
 msgid "building..."
 msgstr "generando..."
 
 msgid "done."
-msgstr "hecho."
+msgstr "hotovo."
 
 msgid "ID not found."
 msgstr "ID no encontrado."
@@ -780,14 +778,14 @@ msgstr "*pouye některé jednotky Discover.  Hodnota >0 zapne upozornění."
 msgid "Drop unsed icons"
 msgstr "Smazat nepoužité ikony"
 
-msgid "Enable 39x39 icons (only for Discover units!!!)"
-msgstr "Povolit ikony royměru 39x39 (pouze pro Discover jednotky!)"
+msgid "Enable 39x39 icons (only for Discover units!!!!)"
+msgstr "Povolit ikony rozměru 39x39 (pouze pro Discover jednotky!)"
 
 msgid "Select SD card / Flash disk:"
-msgstr "Vyber karru SD / flašku:"
+msgstr "Vyber kartu SD / flešku:"
 
 msgid "*Note: All categories are exported into root level "
-msgstr "*Pozn.: Všechny kategorie bude exportovány do hlavní větve"
+msgstr "*Pozn.: Kategorie budou exportovány do hlavní větve "
 
 msgid "City"
 msgstr "Město"

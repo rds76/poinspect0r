@@ -622,7 +622,7 @@ msgstr "¿Reconstruir (optimizando) completamente la base de dados y copiarla a 
 msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "El fichero '%s' ya existe. ¡Borre el fichero y intentelo de nuevo!"
 
-msgid ""
+msgid "" 
 "Succesfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""

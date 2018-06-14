@@ -798,3 +798,10 @@ msgstr "Región"
 
 msgid "Street"
 msgstr "Ulice"
+
+msgid ""
+"Sccesfully exported to disk '%s'.\n"
+"Remove SD card and take it to the car with Discover navi system...:-)"
+msgstr ""
+"Sccesfully exported to disk '%s'.\n"
+"Remove SD card and take it to the car with Discover navi system...:-)"

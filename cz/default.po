@@ -1,1 +1,802 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: POInspect0r\n"
+"POT-Creation-Date: 2013-09-03 21:11\n"
+"PO-Revision-Date: 2018-06-13 20:58+0200\n"
+"Last-Translator: rds <l94599@email.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Language-Team: \n"
+"Language: es\n"
 
+msgid "New POI category"
+msgstr "Nová kategorie POI"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Name:"
+msgstr "Jméno:"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Zpět"
+
+msgid "POI detail"
+msgstr "Detail POI"
+
+msgid "Max map scale:"
+msgstr "Max. měřitko mapy:"
+
+msgid "m"
+msgstr "m"
+
+msgid "POI data file (asc|gpx|kml|ov2):"
+msgstr "Datový soubor POI (asc|gpx|kml|ov2):"
+
+msgid "Appand poi file to the list for future multiple rebuilding"
+msgstr "Přidej soubor POI do seznamu pro pozdější hormadný rebuild"
+
+msgid "Auto link to alpha sort category"
+msgstr "Automaticky propoj do 'alpha sort' kategorie"
+
+msgid "Show POI preview dialog"
+msgstr "Zobraz náhled POI bodů"
+
+msgid "Group category"
+msgstr "Skupina kategorií"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "PNG images (*.png)|*.png"
+msgstr "Obrázky PNG (*.png)|*.png"
+
+msgid "New from file"
+msgstr "Nový ze souboru"
+
+msgid "Existing"
+msgstr "Existující"
+
+msgid "Extra options"
+msgstr "Extra volby"
+
+msgid "Auto link to similar group category (different brand)"
+msgstr "Auto link to similar group category (different brand)"
+
+msgid "Select item"
+msgstr "Vyber položku"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Icon:"
+msgstr "Ikona:"
+
+msgid "Add translation to selected language"
+msgstr "Přidej překlad k vybrané řeči"
+
+msgid "POIs"
+msgstr "POIs"
+
+msgid "Map zoom level:"
+msgstr "Zvetšení mapy:"
+
+msgid "Map priority:"
+msgstr "Priorita mapy:"
+
+msgid "Alert distance:"
+msgstr "Vzdálenost upozornění:"
+
+msgid "meters"
+msgstr "metry"
+
+msgid "Delete current POIs before add!"
+msgstr "Smaž stavajicí POI body před přidáním!"
+
+msgid "Batch POI rebuild"
+msgstr "Hromadná aktualizace POI bodů"
+
+msgid "All POIs for categories listed below will be deleted and replaced with new one!"
+msgstr "Všechny POI body pro kategorie zobrazené níže budou smazány a nahrazeny novými"
+
+msgid "Run batch!"
+msgstr "Spusť hromadný!"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Icons"
+msgstr "Ikony"
+
+msgid "* icon name [#used in categories]"
+msgstr "* název ikony [#použití v kategoriích]"
+
+msgid "Add new icon"
+msgstr "Přidej novou ikonu"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Folder import"
+msgstr "Import složky"
+
+msgid "Portable Network Graphics (*.png)|*.png"
+msgstr "Portable Network Graphics (*.png)|*.png"
+
+msgid "Select icon file"
+msgstr "Výběr souboru s ikonou"
+
+msgid "Select folder contains PNG{34x39} files (include subdirs)"
+msgstr "Vyber složku obsahující PNG(34(39*)x39) soubory (včetně podsložek)"
+
+msgid "ISO create & Burn"
+msgstr "Vytvoření a vypálení ISO"
+
+msgid "Volume ID:"
+msgstr "ID jednotky:"
+
+msgid "ISO creating progress:"
+msgstr "Proces vytváření ISO:"
+
+msgid "- use different ID from  navi map"
+msgstr "- usar un ID diferente desde navi map"
+
+msgid "Burning progress:"
+msgstr "Proceso de grabación:"
+
+msgid "DVD-RW:"
+msgstr "DVD-RW:"
+
+msgid "Default language:"
+msgstr "Lenguaje por defecto:"
+
+msgid "Orig.vol ID:"
+msgstr "Orig. Vol ID:"
+
+msgid "Start"
+msgstr "Empezar"
+
+msgid "Burn image"
+msgstr "Grabar imagen"
+
+msgid "Show log"
+msgstr "Mostrar registros (logs):"
+
+msgid "Original volume ID from DVD map"
+msgstr "ID original del DVD de mapas"
+
+msgid "Donate !!!"
+msgstr "¡¡¡¡ Donar !!!!"
+
+msgid "ID code:"
+msgstr "Código de ID:"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "DV"
+msgstr "DV"
+
+msgid "Donate"
+msgstr "Donar"
+
+msgid "Enter SN"
+msgstr "Introduzca el Número de Serie"
+
+msgid "Online SN registration"
+msgstr "Registo online del Número de Serie"
+
+msgid "Online SN registration - how to"
+msgstr "¿Cómo se registra online el Número de Serie?"
+
+msgid "Build in DVD POIs"
+msgstr "Crear DVD de POIs"
+
+msgid "Disk/Folder:"
+msgstr "Disco/Carpeta:"
+
+msgid "Lang:"
+msgstr "Jazyk:"
+
+msgid "DB version:"
+msgstr "Verze BD:"
+
+msgid "Volume:"
+msgstr "Volume:"
+
+msgid "Mutli rebuild"
+msgstr "Hromadná aktualizace"
+
+msgid "Create ISO && Burn DVD"
+msgstr "Crear ISO y grabar el DVD"
+
+msgid "Area:"
+msgstr "Área:"
+
+msgid "Version:"
+msgstr "Verze:"
+
+msgid "Preferences"
+msgstr "Nastavení"
+
+msgid "Load"
+msgstr "Nahrát"
+
+msgid "Select RNS510 DVD map disc/folder"
+msgstr "Seleccione el disco/carpeta del DVD de mapas RNS510"
+
+msgid "Detail"
+msgstr "Detalles"
+
+msgid "Category ID:"
+msgstr "ID de la categoría:"
+
+msgid "Category name:"
+msgstr "Nombre de la categoría:"
+
+msgid "Involved lines:"
+msgstr "Lineas involucradas:"
+
+msgid "Icon file:"
+msgstr "Fichero de icono:"
+
+msgid "Search attrib. values (from SADESC):"
+msgstr "Buscar los valores de atributos (desde SADESC):"
+
+msgid "List attrib. values (from IADESC):"
+msgstr "Mostar los valores de atributos (desde IADESC):"
+
+msgid "Search form:"
+msgstr "Buscar desde:"
+
+msgid "URL/IDX:"
+msgstr "URL/IDX:"
+
+msgid "Is group category:"
+msgstr "Es una categoría de grupo:"
+
+msgid "SF"
+msgstr "SF"
+
+msgid "ST"
+msgstr "ST"
+
+msgid "DB3 POIs"
+msgstr "DB3 POIs"
+
+msgid "DB3 file:"
+msgstr "Fichero DB3:"
+
+msgid "Created:"
+msgstr "Creado:"
+
+msgid "DB ID:"
+msgstr "BD ID:"
+
+msgid "Core ver.:"
+msgstr "Versión Core:"
+
+msgid "POI ver.:"
+msgstr "Versión POIs:"
+
+msgid "Icon set:"
+msgstr "Conjunto de iconos:"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "Reload"
+msgstr "Recargar"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "SQLlite files (*.db3)|*.db3"
+msgstr "Fichero SQLlite (*.db3)|*.db3"
+
+msgid "POI list"
+msgstr "Lista de POIs"
+
+msgid "Zoom level:"
+msgstr "Nivel de zoom:"
+
+msgid "Total rec. count:"
+msgstr "Total de registros:"
+
+msgid "Select columns"
+msgstr "Seleccionar columnas"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "At least one column must be visible!"
+msgstr "¡Al menos una columna debe estar visible!"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Locate on click only"
+msgstr "Ubicar sólo en la zona del click"
+
+msgid "Enter search text..."
+msgstr "Introduzca texto a buscar..."
+
+msgid "Add POI/group category"
+msgstr "Añadir categoría de POI/grupo"
+
+msgid "- after selected poi"
+msgstr "- despues de poi seleccionado"
+
+msgid "- before selected poi"
+msgstr "- antes de poi seleccionado"
+
+msgid "- as 1st child of selected group"
+msgstr "- como primera categoría hija del grupo seleccionado"
+
+msgid "Link POI|cat - Copy/Paste"
+msgstr "Enlazar POI|cat. - Copiar y Pegar"
+
+msgid "Copy selected"
+msgstr "Copiar seleccionado"
+
+msgid "Paste after selected"
+msgstr "Pegar después de seleccionar"
+
+msgid "Paste before selected"
+msgstr "Pegar antes de seleccionar"
+
+msgid "Paste as 1st child of selected group"
+msgstr "Pegar como primera categoría hija del grupo seleccionado"
+
+msgid "Link POI|cat from selection"
+msgstr "Enlazar POI|cat. desde selección"
+
+msgid "- after selected"
+msgstr "- después de seleccionar"
+
+msgid "- before selected"
+msgstr "- antes de seleccionar"
+
+msgid "Unlink"
+msgstr "Desconectar"
+
+msgid "Unlink all occurences"
+msgstr "Desconectar todas las apariciones"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Rebuild new IDX/URL"
+msgstr "Reconstruir nuevo IDX/URL"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Open POI data file"
+msgstr "Abrir fichero de datos de POIs"
+
+msgid "Category ID"
+msgstr "ID Categoría"
+
+msgid "Icon ID"
+msgstr "ID Símbolo"
+
+msgid "Image ID"
+msgstr "ID Imagen"
+
+msgid "Category name"
+msgstr "Nombre de la categoría"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Width"
+msgstr "Anchura"
+
+msgid "Icon Name"
+msgstr "Nombre del icono"
+
+msgid "PoiID"
+msgstr "PoiID"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "_ID"
+msgstr "_ID"
+
+msgid "House#"
+msgstr "Casa#"
+
+msgid "ISO Country"
+msgstr "ISO del país"
+
+msgid "Phone#"
+msgstr "Teléfono"
+
+msgid "Add category"
+msgstr "Añadir categoría"
+
+msgid "- as sibling"
+msgstr "- como categoría al mismo nivel"
+
+msgid "- as child"
+msgstr "- como categoría hija"
+
+msgid "Edit category"
+msgstr "Editar categoría"
+
+msgid "Delete category"
+msgstr "Eliminar categoría"
+
+msgid "Add POIs"
+msgstr "Añadir POIs"
+
+msgid "Delete POIs"
+msgstr "Eliminar POIs"
+
+msgid "Extract POIs"
+msgstr "Extraer POIs"
+
+msgid "Icons..."
+msgstr "Iconos..."
+
+msgid "Batch POI rebuild..."
+msgstr "Regenerar conjunto de POIs..."
+
+msgid "Transfer current DB to SD card"
+msgstr "Exportar BD actual a la tarjeta SD"
+
+msgid "Vacuum current DB"
+msgstr "Limpar la BD actual"
+
+msgid "Select SD card disk"
+msgstr "Seleccione tarjeta SD"
+
+msgid "Multiple rebuild IDX/URL"
+msgstr "Reconstruir multiples IDX/URL"
+
+msgid "Path"
+msgstr "Camino"
+
+msgid "STATUS"
+msgstr "ESTADO"
+
+msgid "Imported POI list preview"
+msgstr "Importar lista de previsualización de POIs"
+
+msgid "# of POIs: "
+msgstr "# de POIs:"
+
+msgid "Lon"
+msgstr "Lon"
+
+msgid "Lat"
+msgstr "Lat"
+
+msgid "Progress"
+msgstr "Progreso"
+
+msgid "Parsing..."
+msgstr "Analizando..."
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Start from ID:"
+msgstr "Iniciar desde ID:"
+
+msgid "Output IDX/URL:"
+msgstr "Fichero IDX/URL:"
+
+msgid "POI data encoding"
+msgstr "Codificación de los datos POI"
+
+msgid "Input files"
+msgstr "Añadir ficheros"
+
+msgid "Transfer to SD card"
+msgstr "Transferir a la tarjeta SD"
+
+msgid "Select SD card:"
+msgstr "Seleccionar tarjeta SD:"
+
+msgid "Final DB path:"
+msgstr "Ruta para la BD:"
+
+msgid "Missing TPD-UPI tag!"
+msgstr "¡Falta etiqueta TPD-UPI!"
+
+msgid "Can't find TPD-UPI folder!"
+msgstr "¡No es posible encontar la carpeta de TPD-UPI!"
+
+msgid "Missing TPD-DEF(Default language) tag!"
+msgstr "¡No es posible encontrar la etiqueta de TPD-DEF(Lengua por defecto)!"
+
+msgid "Missing TPD-LSC(Languages list) tag!"
+msgstr "¡No es posible encontar la etiqueta de TPD-DEF(Lista de Lenguas)!"
+
+msgid "Can't find TABLES folder!"
+msgstr "¡No es posible encontar la carpeta de las TABLAS!"
+
+msgid "Category has no POIs!"
+msgstr "¡La categoría no tiene ningún POI!"
+
+msgid "Can't add poi here!"
+msgstr "¡Imposible añadir POIs aquí!"
+
+msgid "Can't add poi here. Only group category is allowed here!"
+msgstr "¡No se pueden añadir POIs aquí. Sólamente está permitido añadir grupo de categorías aquí!"
+
+msgid "Icon name %s already exists in map, going to use existing one."
+msgstr "El nombre de icono %s ya existente en el mapa, va a ser usado el existente."
+
+msgid "Add POI done."
+msgstr "Completada la importación de POIs."
+
+msgid "Saved."
+msgstr "Guardado."
+
+msgid "Can't put poi here. Only group category are allowed here!"
+msgstr "¡Imposible añadir POIs aquí. Sólamente está permitidos grupos de categorías aquí!"
+
+msgid "Rebuild done."
+msgstr "Reconstrucción completada."
+
+msgid "Files:"
+msgstr "Ficheros:"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Cannot move category to category containing POIs!"
+msgstr "¡Imposible mover la categoría a otra categoría que ya contenga POIs!"
+
+msgid "Nothing to burn!"
+msgstr "¡No hay nada que grabar!"
+
+msgid "DB file '%s' not found!"
+msgstr "¡Fichero de la base de dados '%s' no encontrado!"
+
+msgid "Cannot find require SQLite driver"
+msgstr "No es posible encontrar el controlador SQLite requerido"
+
+msgid "Missing file 'customPOI.base'! Get latest proper version."
+msgstr "¡Falta el fichero 'customPOI.base'!  Consiga la última versión apropiada."
+
+msgid "New db"
+msgstr "Nueva base de dados"
+
+msgid "Enter new db3 filename"
+msgstr "Introduza el nombre para el fichero db3"
+
+msgid "File '%s' already exists! Pick different name."
+msgstr "¡El fichero '%s' ya existe! Elija un nombre diferente."
+
+msgid "Entire database has been succesfully rebuilded."
+msgstr "La base de datos ha sido reconstruida completamente con éxito."
+
+msgid "Cannot add child category to category containing POIs!"
+msgstr "¡No se puede añadir una categoría hija a una categoría que ya contenga POIs!"
+
+msgid "File '"
+msgstr "Fichero '"
+
+msgid ""
+"' not found!\n"
+"Add some POIs 1st."
+msgstr ""
+"' ¡no encontado!\n"
+"Primero añada algunos POIs."
+
+msgid ""
+"No input file found! [%s]\n"
+"Create it or use addPOI with this feature."
+msgstr ""
+"¡Fichero de entrada no encontrado! [%s]\n"
+"Creelo o use addPOI con esta opción."
+
+msgid "Rebuild (vacuum) entire DB and copy to SD card?"
+msgstr "¿Reconstruir (optimizando) completamente la base de dados y copiarla a la tarjeta SD?"
+
+msgid "File '%s' already exists. Remove the file then repeat action!"
+msgstr "El fichero '%s' ya existe. ¡Borre el fichero y intentelo de nuevo!"
+
+msgid ""
+"Succesfully copied as '%s'.\n"
+"Remove SD card and take it to the car...:-)"
+msgstr ""
+"Copiado correctamente como '%s'.\n"
+"Extraiga la tarjeta SD e introdúzcala en el lector de tarjeta de su coche... :-)"
+
+msgid "Are you sure to unlink selected item?"
+msgstr "¿Está seguro que desea eliminar los objetos seleccionados?"
+
+msgid "Can't unlink POI!"
+msgstr "¡No se puede eliminar los POIs!"
+
+msgid "Unlink POI done."
+msgstr "Eliminación del POI completada."
+
+msgid "Unlink POIs done."
+msgstr "Eliminación de los POIs completada."
+
+msgid "Are you sure to unlink all occurences of selected item?"
+msgstr "¿Está seguro que desear eliminaciones todas las instancias de los objetos seleccionados?"
+
+msgid "Delete POI done."
+msgstr "POI borrado."
+
+msgid "Delete all pois for this category?"
+msgstr "¿Borrar todos los POIs de esta categoría?"
+
+msgid "Icon details"
+msgstr "Detalles del icono"
+
+msgid "Image dimensions"
+msgstr "Tamaño de la imagen"
+
+msgid "Category details"
+msgstr "Detalles de la categoría"
+
+msgid "POI details"
+msgstr "Detalles del POI"
+
+msgid "Are you sure to delete selected item?"
+msgstr "¿Está seguro de eliminar los objetos seleccionados?"
+
+msgid "Cannot delete this category!"
+msgstr "¡No se puede borrar esta categoría!"
+
+msgid "Delete category '%s' ?"
+msgstr "¿Borrar categoría '%s' ?"
+
+msgid "Cannot add POIs to parent category!"
+msgstr "¡No es posible añadir POIs a la categoría padre!"
+
+msgid "[Unlinked items]"
+msgstr "[Objetos eliminados]"
+
+msgid "Fill all required values!"
+msgstr "¡Complete todos los valores requeridos!"
+
+msgid "Icon name '%s' already exist, select another name!"
+msgstr "El nombre del icono '%s' ya existe, ¡Seleccione otro nombre!"
+
+msgid "Ready."
+msgstr "Listo."
+
+msgid "File not found!"
+msgstr "¡Fichero no encontrado!"
+
+msgid "Category not found!"
+msgstr "¡Categoría no encontrada!"
+
+msgid "Clearing old POIs..."
+msgstr "Eliminando POIs antiguos..."
+
+msgid "Importing POIs..."
+msgstr "Importando POIs..."
+
+msgid "Done."
+msgstr "Hecho."
+
+msgid "Skipped."
+msgstr "Ignorado."
+
+msgid "Batch job finished!"
+msgstr "¡Tarea finalizada!"
+
+msgid "Icon name '%s' already exists!"
+msgstr "¡El nombre de icono '%s' ya existe!"
+
+msgid "Wrong image size (34x39)! File:"
+msgstr "¡Tamaño de imagem erróneo (34x39)! Fichero:"
+
+msgid "Make sure you have inserted empty DVD disk in dvd drive %s !"
+msgstr "¡Asegúrese que haya introducido un DVD en blanco en su grabadora de DVD´s %s !"
+
+msgid "DONE."
+msgstr "HECHO."
+
+msgid "Wait (%ds)"
+msgstr "Espere (%ds)"
+
+msgid ""
+"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it "
+"doesn't ruin you and you can support future development.\n"
+"Then you can register online with assigned Paypal transaction number."
+msgstr ""
+"Para evitar que este mensaje aparezca y poder disfrutar de todas las funciones de esta aplicación, por "
+"favor realice una donación de al menos %s.Creo que dicha donación no le arruinará, y podrá contribuir al "
+"futuro desarrollo de este programa.\n"
+"Tras realizar la donación, podrá completar el registro online con el número de la transacción de Paypal "
+"que le habrá sido asignada.¡Muchas gracias!"
+
+msgid "Serial:"
+msgstr "Número de Serie:"
+
+msgid "Please restart application."
+msgstr "Por favor, reinicie la aplicación."
+
+msgid "Registration"
+msgstr "Registo"
+
+msgid "Enter PayPal transaction ID (Confirmation number)"
+msgstr "Introduzca el ID de la transacción de PayPal (Número de Confirmación)"
+
+msgid "Response error:"
+msgstr "Error de respuesta:"
+
+msgid "building..."
+msgstr "generando..."
+
+msgid "done."
+msgstr "hecho."
+
+msgid "ID not found."
+msgstr "ID no encontrado."
+
+msgid "file not found."
+msgstr "fichero no encontrado."
+
+msgid "skipped"
+msgstr "ignorado"
+
+msgid "Unknown file extension!"
+msgstr "¡Extensión de fichero desconodida!"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Program"
+msgstr "Program"
+
+msgid "Check for duplicate coordinates"
+msgstr "Comprobar coordenadas duplicadas"
+
+msgid "*Only for some Discover units. Value >0 makes it warnable."
+msgstr "*pouye některé jednotky Discover.  Hodnota >0 zapne upozornění."
+
+msgid "Drop unsed icons"
+msgstr "Smazat nepoužité ikony"
+
+msgid "Enable 39x39 icons (only for Discover units!!!)"
+msgstr "Povolit ikony royměru 39x39 (pouze pro Discover jednotky!)"
+
+msgid "Select SD card / Flash disk:"
+msgstr "Vyber karru SD / flašku:"
+
+msgid "*Note: All categories are exported into root level "
+msgstr "*Pozn.: Všechny kategorie bude exportovány do hlavní větve"
+
+msgid "City"
+msgstr "Město"
+
+msgid "Country"
+msgstr "Země"
+
+msgid "Region"
+msgstr "Región"
+
+msgid "Street"
+msgstr "Ulice"

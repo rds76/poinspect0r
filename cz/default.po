@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-14 21:44+0200\n"
+"PO-Revision-Date: 2018-06-14 21:55+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -83,10 +83,10 @@ msgid "Icon:"
 msgstr "Ikona:"
 
 msgid "Add translation to selected language"
-msgstr "Přidej překlad k vybrané řeči"
+msgstr "Přidej překlad k vybranému jazyku"
 
 msgid "POIs"
-msgstr "POIs"
+msgstr "POI"
 
 msgid "Map zoom level:"
 msgstr "Zvetšení mapy:"
@@ -152,7 +152,7 @@ msgid "ISO creating progress:"
 msgstr "Proces vytváření ISO obrazu:"
 
 msgid "- use different ID from  navi map"
-msgstr "- usar un ID diferente desde navi map"
+msgstr "- použij jiné ID z mapy navigace"
 
 msgid "Burning progress:"
 msgstr "Proces vypalování:"
@@ -176,7 +176,7 @@ msgid "Show log"
 msgstr "Zobraz log:"
 
 msgid "Original volume ID from DVD map"
-msgstr "ID original del DVD de mapas"
+msgstr "Original volume ID from DVD map"
 
 msgid "Donate !!!"
 msgstr "¡¡¡¡ Přispěj !!!!"
@@ -203,7 +203,7 @@ msgid "Online SN registration - how to"
 msgstr "Registrace produktu online - jak na to"
 
 msgid "Build in DVD POIs"
-msgstr "Crear DVD de POIs"
+msgstr "POI uvnitř DVD"
 
 msgid "Disk/Folder:"
 msgstr "Disk/Složka:"
@@ -236,7 +236,7 @@ msgid "Load"
 msgstr "Nahrát"
 
 msgid "Select RNS510 DVD map disc/folder"
-msgstr "Seleccione el disco/carpeta del DVD de mapas RNS510"
+msgstr "Select RNS510 DVD map disc/folder"
 
 msgid "Detail"
 msgstr "Detail"
@@ -254,10 +254,10 @@ msgid "Icon file:"
 msgstr "Soubor ikony:"
 
 msgid "Search attrib. values (from SADESC):"
-msgstr "Buscar los valores de atributos (desde SADESC):"
+msgstr "Search attrib. values (from SADESC):"
 
 msgid "List attrib. values (from IADESC):"
-msgstr "Mostar los valores de atributos (desde IADESC):"
+msgstr "List attrib. values (from IADESC):"
 
 msgid "Search form:"
 msgstr "Hledej od:"
@@ -356,34 +356,34 @@ msgid "Copy selected"
 msgstr "Kopíruj vybrané"
 
 msgid "Paste after selected"
-msgstr "Pegar después de seleccionar"
+msgstr "Paste after selected"
 
 msgid "Paste before selected"
-msgstr "Pegar antes de seleccionar"
+msgstr "Paste before selected"
 
 msgid "Paste as 1st child of selected group"
-msgstr "Pegar como primera categoría hija del grupo seleccionado"
+msgstr "Paste as 1st child of selected group"
 
 msgid "Link POI|cat from selection"
-msgstr "Enlazar POI|cat. desde selección"
+msgstr "Link POI|cat from selection"
 
 msgid "- after selected"
-msgstr "- después de seleccionar"
+msgstr "- after selected"
 
 msgid "- before selected"
-msgstr "- antes de seleccionar"
+msgstr "- before selected"
 
 msgid "Unlink"
-msgstr "Desconectar"
+msgstr "Unlink"
 
 msgid "Unlink all occurences"
-msgstr "Desconectar todas las apariciones"
+msgstr "Unlink all occurences"
 
 msgid "Delete"
 msgstr "Smaž"
 
 msgid "Rebuild new IDX/URL"
-msgstr "Reconstruir nuevo IDX/URL"
+msgstr "Rebuild new IDX/URL"
 
 msgid "Save"
 msgstr "Ulož"
@@ -428,7 +428,7 @@ msgid "House#"
 msgstr "ČP#"
 
 msgid "ISO Country"
-msgstr "ISO del país"
+msgstr "ISO země"
 
 msgid "Phone#"
 msgstr "Telefonní č."
@@ -440,7 +440,7 @@ msgid "- as sibling"
 msgstr "- jako sousední"
 
 msgid "- as child"
-msgstr "- jako potek"
+msgstr "- jako potomek"
 
 msgid "Edit category"
 msgstr "Uprav kategorii"
@@ -449,13 +449,13 @@ msgid "Delete category"
 msgstr "Smaž kategorii"
 
 msgid "Add POIs"
-msgstr "Přidat POIs"
+msgstr "Přidat POI"
 
 msgid "Delete POIs"
-msgstr "Smazat POIs"
+msgstr "Smazat POI"
 
 msgid "Extract POIs"
-msgstr "Export POIs do asc"
+msgstr "Export POI do souboru"
 
 msgid "Icons..."
 msgstr "Ikony..."
@@ -473,7 +473,7 @@ msgid "Select SD card disk"
 msgstr "Vyber SD kartu"
 
 msgid "Multiple rebuild IDX/URL"
-msgstr "Reconstruir multiples IDX/URL"
+msgstr "Multiple rebuild IDX/URL"
 
 msgid "Path"
 msgstr "Cesta"
@@ -503,10 +503,10 @@ msgid "Main"
 msgstr "Hlavní"
 
 msgid "Start from ID:"
-msgstr "Iniciar desde ID:"
+msgstr "Začátek od ID:"
 
 msgid "Output IDX/URL:"
-msgstr "Fichero IDX/URL:"
+msgstr "Output IDX/URL:"
 
 msgid "POI data encoding"
 msgstr "Kódování POI dat"
@@ -524,31 +524,31 @@ msgid "Final DB path:"
 msgstr "Cílová cesta DB:"
 
 msgid "Missing TPD-UPI tag!"
-msgstr "¡Falta etiqueta TPD-UPI!"
+msgstr "Missing TPD-UPI tag!"
 
 msgid "Can't find TPD-UPI folder!"
-msgstr "¡No es posible encontar la carpeta de TPD-UPI!"
+msgstr "Can't find TPD-UPI folder!"
 
 msgid "Missing TPD-DEF(Default language) tag!"
-msgstr "¡No es posible encontrar la etiqueta de TPD-DEF(Lengua por defecto)!"
+msgstr "Missing TPD-DEF(Default language) tag!"
 
 msgid "Missing TPD-LSC(Languages list) tag!"
-msgstr "¡No es posible encontar la etiqueta de TPD-DEF(Lista de Lenguas)!"
+msgstr "Missing TPD-LSC(Languages list) tag!"
 
 msgid "Can't find TABLES folder!"
-msgstr "¡No es posible encontar la carpeta de las TABLAS!"
+msgstr "Can't find TABLES folder!"
 
 msgid "Category has no POIs!"
-msgstr "Kategorie nobsahuje POI!"
+msgstr "Kategorie neobsahuje POI!"
 
 msgid "Can't add poi here!"
 msgstr "Nelze zde přidat POI!"
 
 msgid "Can't add poi here. Only group category is allowed here!"
-msgstr "¡No se pueden añadir POIs aquí. Sólamente está permitido añadir grupo de categorías aquí!"
+msgstr "Can't add poi here. Only group category is allowed here!"
 
 msgid "Icon name %s already exists in map, going to use existing one."
-msgstr "El nombre de icono %s ya existente en el mapa, va a ser usado el existente."
+msgstr "Icon name %s already exists in map, going to use existing one."
 
 msgid "Add POI done."
 msgstr "POI přidány."
@@ -773,7 +773,7 @@ msgid "Check for duplicate coordinates"
 msgstr "Comprobar coordenadas duplicadas"
 
 msgid "*Only for some Discover units. Value >0 makes it warnable."
-msgstr "*pouye některé jednotky Discover.  Hodnota >0 zapne upozornění."
+msgstr "*pouze některé jednotky Discover.  Hodnota >0 zapne upozornění."
 
 msgid "Drop unsed icons"
 msgstr "Smazat nepoužité ikony"

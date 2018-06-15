@@ -807,3 +807,15 @@ msgid ""
 msgstr ""
 "Copiado correctamente al disco '%s'.\n"
 "Extraiga la tarjeta SD e introdúzcala en el lector de tarjetas de su navegador :-)"
+
+msgid "Delete POI"
+msgstr ""
+
+msgid "Village"
+msgstr ""
+
+msgid "Donated version."
+msgstr ""
+
+msgid "Donate for unlock all functions!"
+msgstr ""

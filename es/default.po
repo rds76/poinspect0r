@@ -780,7 +780,7 @@ msgstr "*Sólo para unidades Discover.  Valor >0 activa el aviso sonoro."
 msgid "Drop unsed icons"
 msgstr "Quitar iconos sin uso"
 
-msgid "Enable 39x39 icons (only for Discover units!!!)"
+msgid "Enable 39x39 icons (only for Discover units!!!!)"
 msgstr "Activar iconos 39x39 (¡Sólo unidades Discover!)"
 
 msgid "Select SD card / Flash disk:"

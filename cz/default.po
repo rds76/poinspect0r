@@ -812,7 +812,7 @@ msgid "Village"
 msgstr "Obec"
 
 msgid "Donated version."
-msgstr "Verze s příspěvkem."
+msgstr "Registrovaná verze."
 
 msgid "Donate for unlock all functions!"
 msgstr "Pro odemčení všech funkcí pošli příspěvek!"

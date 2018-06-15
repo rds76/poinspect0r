@@ -818,4 +818,4 @@ msgid "Donated version."
 msgstr "Vesión completa (con donación)."
 
 msgid "Donate for unlock all functions!"
-msgstr "Done para desbloquear todas las funciones"
+msgstr "Done para desbloquear todas las funciones!"

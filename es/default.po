@@ -809,13 +809,13 @@ msgstr ""
 "Extraiga la tarjeta SD e introdúzcala en el lector de tarjetas de su navegador :-)"
 
 msgid "Delete POI"
-msgstr ""
+msgstr "Eliminar POI"
 
 msgid "Village"
-msgstr ""
+msgstr "Aldea"
 
 msgid "Donated version."
-msgstr ""
+msgstr "Versión donada"
 
 msgid "Donate for unlock all functions!"
-msgstr ""
+msgstr "Donar para desbloquear todas las funciones!"

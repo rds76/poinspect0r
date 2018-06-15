@@ -794,3 +794,15 @@ msgid ""
 "Succesfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
+
+msgid "Delete POI"
+msgstr ""
+
+msgid "Village"
+msgstr ""
+
+msgid "Donated version."
+msgstr ""
+
+msgid "Donate for unlock all functions!"
+msgstr ""

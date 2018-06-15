@@ -813,3 +813,6 @@ msgstr "Obec"
 
 msgid "Donated version."
 msgstr "Verze s příspěvkem."
+
+msgid "Donate for unlock all functions!"
+msgstr "Pro odemčení všech funkcí pošli příspěvek!"

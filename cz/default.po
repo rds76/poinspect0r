@@ -769,7 +769,7 @@ msgid "Program"
 msgstr "Program"
 
 msgid "Check for duplicate coordinates"
-msgstr "Nahraď duplikátní souřadnice"
+msgstr "Nahraď pro duplicitní souřadnice"
 
 msgid "*Only for some Discover units. Value >0 makes it warnable."
 msgstr "*pouze některé jednotky Discover.  Hodnota >0 zapne upozornění."

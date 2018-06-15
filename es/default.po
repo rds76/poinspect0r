@@ -107,11 +107,10 @@ msgid "Batch POI rebuild"
 msgstr "Regenerar el conjunto de POIs completamente"
 
 msgid "All POIs for categories listed below will be deleted and replaced with new one!"
-msgstr ""
-"¡Todos los POIs de las categorías que se muestran abajo serán eliminados y sustituidos por los nuevos!"
+msgstr "¡Todos los POIs de estas categorías serán eliminados y actualizados por los nuevos!"
 
 msgid "Run batch!"
-msgstr "¡Ejecutar tarea!"
+msgstr "¡Regenerar!"
 
 msgid "File"
 msgstr "Fichero"
@@ -210,7 +209,7 @@ msgid "Disk/Folder:"
 msgstr "Disco/Carpeta:"
 
 msgid "Lang:"
-msgstr "Lengua:"
+msgstr "Idioma:"
 
 msgid "DB version:"
 msgstr "Versión de la BD:"
@@ -294,7 +293,7 @@ msgid "POI ver.:"
 msgstr "Versión POIs:"
 
 msgid "Icon set:"
-msgstr "Conjunto de iconos:"
+msgstr "Iconos:"
 
 msgid "New"
 msgstr "Nuevo"
@@ -402,7 +401,7 @@ msgid "Image ID"
 msgstr "ID Imagen"
 
 msgid "Category name"
-msgstr "Nombre de la categoría"
+msgstr "Nombre categoría"
 
 msgid "Height"
 msgstr "Altura"
@@ -426,7 +425,7 @@ msgid "_ID"
 msgstr "_ID"
 
 msgid "House#"
-msgstr "Casa#"
+msgstr "Nº"
 
 msgid "ISO Country"
 msgstr "ISO del país"
@@ -456,7 +455,7 @@ msgid "Delete POIs"
 msgstr "Eliminar POIs"
 
 msgid "Extract POIs"
-msgstr "Extraer POIs"
+msgstr "Exportar POIs"
 
 msgid "Icons..."
 msgstr "Iconos..."
@@ -513,7 +512,7 @@ msgid "POI data encoding"
 msgstr "Codificación de los datos POI"
 
 msgid "Input files"
-msgstr "Añadir ficheros"
+msgstr "Tipo de fichero"
 
 msgid "Transfer to SD card"
 msgstr "Transferir a la tarjeta SD"
@@ -621,13 +620,6 @@ msgstr "¿Reconstruir (optimizando) completamente la base de dados y copiarla a 
 
 msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "El fichero '%s' ya existe. ¡Borre el fichero y intentelo de nuevo!"
-
-msgid ""
-"Succesfully copied as '%s'.\n"
-"Remove SD card and take it to the car...:-)"
-msgstr ""
-"Copiado correctamente como '%s'.\n"
-"Extraiga la tarjeta SD e introdúzcala en el lector de tarjeta de su coche... :-)"
 
 msgid "Are you sure to unlink selected item?"
 msgstr "¿Está seguro que desea eliminar los objetos seleccionados?"
@@ -781,7 +773,7 @@ msgstr "*Sólo para unidades Discover.  Valor >0 activa el aviso sonoro."
 msgid "Drop unsed icons"
 msgstr "Quitar iconos sin uso"
 
-msgid "Enable 39x39 icons (only for Discover units!!!)"
+msgid "Enable 39x39 icons (only for Discover units!!!!)"
 msgstr "Activar iconos 39x39 (¡Sólo unidades Discover!)"
 
 msgid "Select SD card / Flash disk:"
@@ -803,11 +795,15 @@ msgid "Street"
 msgstr "Calle"
 
 msgid ""
+"Succesfully copied as '%s'.\n"
+"Remove SD card and take it to the car...:-)"
+msgstr ""
+"Copiado correctamente como '%s'.\n"
+"Extraiga la tarjeta SD e introdúzcala en el lector de tarjetas de su coche... :-)"
+
+msgid ""
 "Succesfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
-"Sccesfully exported to disk '%s'.\n"
-"Remove SD card and take it to the car with Discover navi system...:-)"
-
-msgid "Donated version."
-msgstr "Verze s podporou."
+"Copiado correctamente al disco '%s'.\n"
+"Extraiga la tarjeta SD e introdúzcala en el lector de tarjetas de su navegador :-)"

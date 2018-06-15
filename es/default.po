@@ -110,7 +110,7 @@ msgid "All POIs for categories listed below will be deleted and replaced with ne
 msgstr "¡Todos los POIs de estas categorías serán eliminados y actualizados por los nuevos!"
 
 msgid "Run batch!"
-msgstr "Regenerar!"
+msgstr "¡Regenerar!"
 
 msgid "File"
 msgstr "Fichero"
@@ -621,13 +621,6 @@ msgstr "¿Reconstruir (optimizando) completamente la base de dados y copiarla a 
 msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "El fichero '%s' ya existe. ¡Borre el fichero y intentelo de nuevo!"
 
-msgid ""
-"Succesfully copied as '%s'.\n"
-"Remove SD card and take it to the car...:-)"
-msgstr ""
-"Copiado correctamente como '%s'.\n"
-"Extraiga la tarjeta SD e introdúzcala en el lector de tarjeta de su coche... :-)"
-
 msgid "Are you sure to unlink selected item?"
 msgstr "¿Está seguro que desea eliminar los objetos seleccionados?"
 
@@ -802,8 +795,27 @@ msgid "Street"
 msgstr "Calle"
 
 msgid ""
+"Succesfully copied as '%s'.\n"
+"Remove SD card and take it to the car...:-)"
+msgstr ""
+"Copiado correctamente como '%s'.\n"
+"Extraiga la tarjeta SD e introdúzcala en el lector de tarjetas de su coche... :-)"
+
+msgid ""
 "Succesfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
-"Copiado exportadas como '%s'.\n"
-"Extraiga la tarjeta SD e introdúzcala en el lector de tarjeta de su coche... :-)"
+"Copiado correctamente al disco '%s'.\n"
+"Extraiga la tarjeta SD e introdúzcala en el lector de tarjetas de su navegador :-)"
+
+msgid "Delete POI"
+msgstr ""
+
+msgid "Village"
+msgstr ""
+
+msgid "Donated version."
+msgstr ""
+
+msgid "Donate for unlock all functions!"
+msgstr ""

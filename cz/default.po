@@ -810,3 +810,6 @@ msgstr "Smaž vybraný POI"
 
 msgid "Village"
 msgstr "Obec"
+
+msgid "Donated version."
+msgstr "Verze s příspěvkem."

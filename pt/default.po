@@ -782,3 +782,38 @@ msgstr "Lingua"
 
 msgid "Program"
 msgstr "Programa"
+
+msgid "Check for duplicate coordinates"
+msgstr ""
+
+msgid "*Only for some Discover units. Value >0 makes it warnable."
+msgstr ""
+
+msgid "Drop unsed icons"
+msgstr ""
+
+msgid "Enable 39x39 icons (only for Discover units!!!!)"
+msgstr ""
+
+msgid "Select SD card / Flash disk:"
+msgstr ""
+
+msgid "*Note: All categories are exported into root level "
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Street"
+msgstr ""
+
+msgid ""
+"Succesfully exported to disk '%s'.\n"
+"Remove SD card and take it to the car with Discover navi system...:-)"
+msgstr ""

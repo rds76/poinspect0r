@@ -725,7 +725,7 @@ msgid ""
 "doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
-"Nechceš-li vidět tuto zprávu a chceš plnou funkncionalitu,přispěj alespoň %s. Myslím že tě "
+"Nechceš-li vidět tuto zprávu a chceš plnou funkncionalitu, přispěj alespoň %s. Myslím že tě "
 "to nezruinuje a podpoříš další vývoj.\n"
 "Pak si můžes produkt zaregistrovat online s Paypal číslem transakce."
 

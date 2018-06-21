@@ -35,7 +35,7 @@ msgid "POI detail"
 msgstr "Détail des POI"
 
 msgid "Max map scale:"
-msgstr "Echelle maximal de la carte:"
+msgstr "Echelle maximale de la carte:"
 
 msgid "m"
 msgstr "m"
@@ -178,13 +178,13 @@ msgid "Burn image"
 msgstr "Gravure image"
 
 msgid "Show log"
-msgstr "aperçu du LOG"
+msgstr "Aperçu du LOG"
 
 msgid "Original volume ID from DVD map"
 msgstr "ID original du DVD de cartographie"
 
 msgid "Donate !!!"
-msgstr "Donation !!!"
+msgstr "Faites une donation !!!"
 
 msgid "ID code:"
 msgstr "ID Code:"
@@ -196,7 +196,7 @@ msgid "DV"
 msgstr "DV"
 
 msgid "Donate"
-msgstr "Donation"
+msgstr "Faites une donation"
 
 msgid "Enter SN"
 msgstr "Entrer la clé d'enregistrement"
@@ -235,7 +235,7 @@ msgid "Version:"
 msgstr "Version:"
 
 msgid "Preferences"
-msgstr "préférences"
+msgstr "Préférences"
 
 msgid "Load"
 msgstr "Charger"
@@ -347,7 +347,7 @@ msgid "Add POI/group category"
 msgstr "Ajout POI/Groupe de catégorie"
 
 msgid "- after selected poi"
-msgstr "- Après POI sélectionné"
+msgstr "- après POI sélectionné"
 
 msgid "- before selected poi"
 msgstr "- avant POI sélectionné"
@@ -788,48 +788,50 @@ msgid "Program"
 msgstr "Programme"
 
 msgid "Check for duplicate coordinates"
-msgstr ""
+msgstr "Rechercher des doublons de coordonnées"
 
 msgid "*Only for some Discover units. Value >0 makes it warnable."
-msgstr ""
+msgstr "*Uniquement pour certains systèmes Discover. Toute valeur >0 active l'alerte"
 
 msgid "Drop unsed icons"
-msgstr ""
+msgstr "Supprimer les icônes non utilisées"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"
-msgstr ""
+msgstr "Activer l'icône 39x39 (Ne concerne que les systèmes Discover!!!!)"
 
 msgid "Select SD card / Flash disk:"
-msgstr ""
+msgstr "Sélectionez la carte SD / le disque Flash"
 
 msgid "*Note: All categories are exported into root level "
-msgstr ""
+msgstr "*Note: Toutes les catégories sont exportées à la racine "
 
 msgid "City"
-msgstr ""
+msgstr "Ville"
 
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 msgid "Region"
-msgstr ""
+msgstr "Région"
 
 msgid "Street"
-msgstr ""
+msgstr "Rue"
 
 msgid ""
 "Succesfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
+"Exportation réussie vers '%s'.\n"
+"Retirez la carte et placez la dans de véhicule équipé du système de navigation Discover"
 
 msgid "Delete POI"
-msgstr ""
+msgstr "Effacer POI"
 
 msgid "Village"
-msgstr ""
+msgstr "Village"
 
 msgid "Donated version."
-msgstr ""
+msgstr "Version Donateur"
 
 msgid "Donate for unlock all functions!"
-msgstr ""
+msgstr "Faites une donation pour déverrouiller toutes les fonctions"

@@ -837,4 +837,4 @@ msgid "Donate for unlock all functions!"
 msgstr "Faites une donation pour déverrouiller toutes les fonctions"
 
 msgid "Radius in meters to find duplicates (square area):"
-msgstr "Rayon en mètres de recherche des doublons (surface carrée)"
+msgstr "Rayon en mètres de recherche des doublons (surface carrée):"

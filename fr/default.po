@@ -835,3 +835,6 @@ msgstr "Version Donateur"
 
 msgid "Donate for unlock all functions!"
 msgstr "Faites une donation pour déverrouiller toutes les fonctions"
+
+msgid "Radius in meters to find duplicates (square area):"
+msgstr ""

@@ -1,4 +1,4 @@
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+﻿# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -817,5 +817,5 @@ msgstr "Registrovaná verze."
 msgid "Donate for unlock all functions!"
 msgstr "Pro odemčení všech funkcí pošli příspěvek!"
 
-msgid "Square area in meters to find duplicates around:"
-msgstr "Rozsah hledání duplicit, strana čtverce v metrech:"
+msgid "Radius in meters to find duplicates (square area):"
+msgstr "Rozsah hledání duplicit, radius v metrech:"

@@ -806,3 +806,6 @@ msgstr ""
 
 msgid "Donate for unlock all functions!"
 msgstr ""
+
+msgid "Donate for unlock!"
+msgstr ""

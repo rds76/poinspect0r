@@ -841,3 +841,6 @@ msgstr ""
 
 msgid "Proxy settings for internet connection"
 msgstr ""
+
+msgid "Donate for unlock!"
+msgstr ""

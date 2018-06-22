@@ -1,10 +1,9 @@
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-22 15:02+0200\n"
+"PO-Revision-Date: 2018-06-22 23:53+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -826,3 +825,6 @@ msgstr "Použij systémové nastavení"
 
 msgid "Proxy settings for internet connection"
 msgstr "Nastavení proxy pro připojení k internetu"
+
+msgid "Donate for unlock!"
+msgstr "Pro odemčení pošli příspěvek!"

@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
+﻿# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -811,4 +811,28 @@ msgstr ""
 msgid ""
 "Succesfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
+msgstr ""
+
+msgid "Delete POI"
+msgstr ""
+
+msgid "Village"
+msgstr ""
+
+msgid "Donated version."
+msgstr ""
+
+msgid "Donate for unlock all functions!"
+msgstr ""
+
+msgid "Radius in meters to find duplicates (square area):"
+msgstr ""
+
+msgid "Leave empty to disable"
+msgstr ""
+
+msgid "Use system settings"
+msgstr ""
+
+msgid "Proxy settings for internet connection"
 msgstr ""

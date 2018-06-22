@@ -1,11 +1,10 @@
-# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-21 21:49+0200\n"
+"PO-Revision-Date: 2018-06-22 15:02+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -171,7 +170,7 @@ msgid "Burn image"
 msgstr "Vypal obraz"
 
 msgid "Show log"
-msgstr "Zobraz log:"
+msgstr "Zobraz log"
 
 msgid "Original volume ID from DVD map"
 msgstr "Original volume ID from DVD map"
@@ -483,7 +482,7 @@ msgid "Imported POI list preview"
 msgstr "Náhled importovaných POI bodů"
 
 msgid "# of POIs: "
-msgstr "#  POI:"
+msgstr "#  POI: "
 
 msgid "Lon"
 msgstr "Lon"
@@ -818,3 +817,12 @@ msgstr "Pro odemčení všech funkcí pošli příspěvek!"
 
 msgid "Radius in meters to find duplicates (square area):"
 msgstr "Rozsah hledání duplicit, rádius v metrech (čtvercová plocha):"
+
+msgid "Leave empty to disable"
+msgstr "Nevyplňuj pro vypnutí"
+
+msgid "Use system settings"
+msgstr "Použij systémové nastavení"
+
+msgid "Proxy settings for internet connection"
+msgstr "Nastavení proxy pro připojení k internetu"

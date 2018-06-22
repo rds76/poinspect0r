@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
+﻿# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -838,3 +838,12 @@ msgstr "Faites une donation pour déverrouiller toutes les fonctions"
 
 msgid "Radius in meters to find duplicates (square area):"
 msgstr "Rayon en mètres de recherche des doublons (surface carrée):"
+
+msgid "Leave empty to disable"
+msgstr ""
+
+msgid "Use system settings"
+msgstr ""
+
+msgid "Proxy settings for internet connection"
+msgstr ""

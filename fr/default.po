@@ -840,10 +840,10 @@ msgid "Radius in meters to find duplicates (square area):"
 msgstr "Rayon en mètres de recherche des doublons (surface carrée):"
 
 msgid "Leave empty to disable"
-msgstr ""
+msgstr "Laisser vierge pour désactiver"
 
 msgid "Use system settings"
-msgstr ""
+msgstr "Utiliser les réglages du système"
 
 msgid "Proxy settings for internet connection"
-msgstr ""
+msgstr "Réglages du Proxy pour la connexion à internet"

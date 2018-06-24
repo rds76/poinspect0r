@@ -766,7 +766,7 @@ msgstr ""
 msgid "*Only for some Discover units. Value >0 makes it warnable."
 msgstr ""
 
-msgid "Drop unsed icons"
+msgid "Drop unused icons"
 msgstr ""
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"

@@ -771,7 +771,7 @@ msgstr "Nahraď pro duplicitní souřadnice"
 msgid "*Only for some Discover units. Value >0 makes it warnable."
 msgstr "*pouze některé jednotky Discover.  Hodnota >0 zapne upozornění."
 
-msgid "Drop unsed icons"
+msgid "Drop unused icons"
 msgstr "Smazat nepoužité ikony"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"

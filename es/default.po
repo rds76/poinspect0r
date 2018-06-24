@@ -770,7 +770,7 @@ msgstr "Comprobar coordenadas duplicadas"
 msgid "*Only for some Discover units. Value >0 makes it warnable."
 msgstr "*Sólo para unidades Discover.  Valor >0 activa el aviso sonoro."
 
-msgid "Drop unsed icons"
+msgid "Drop unused icons"
 msgstr "Quitar iconos sin uso"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"

@@ -782,7 +782,7 @@ msgstr "Rechercher des doublons de coordonnées"
 msgid "*Only for some Discover units. Value >0 makes it warnable."
 msgstr "*Uniquement pour certains systèmes Discover. Toute valeur >0 active l'alerte"
 
-msgid "Drop unsed icons"
+msgid "Drop unused icons"
 msgstr "Supprimer les icônes non utilisées"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"

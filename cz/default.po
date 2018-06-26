@@ -1,9 +1,8 @@
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-26 14:47+0200\n"
+"PO-Revision-Date: 2018-06-26 16:50+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -828,3 +827,6 @@ msgstr "Nastavení proxy pro připojení k internetu"
 
 msgid "Donate for unlock!"
 msgstr "Pro odemčení pošli příspěvek!"
+
+msgid "Check for the new version"
+msgstr "Zjistit dostupnost nové verze"

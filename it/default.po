@@ -838,3 +838,6 @@ msgstr ""
 
 msgid "Donate for unlock!"
 msgstr ""
+
+msgid "Check for the new version"
+msgstr ""

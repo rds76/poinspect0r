@@ -5,16 +5,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
-"POT-Creation-Date: 2013-09-03 21:11\n"
+"POT-Creation-Date: 2018-06-27 21:58+0200\n"
 "PO-Revision-Date: 2018-06-26 14:48+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
-"Language-Team: \n"
 "X-Poedit-Bookmarks: -1,-1,-1,156,-1,-1,-1,-1,-1,-1\n"
-"Language: fr\n"
 
 msgid "New POI category"
 msgstr "Nouvelle catégorie de POI"
@@ -43,7 +43,6 @@ msgstr "m"
 msgid "POI data file (asc|gpx|kml|ov2):"
 msgstr "Fichier de données POI (asc|gpx|kml|ov2):"
 
-#, fuzzy
 msgid "Appand poi file to the list for future multiple rebuilding"
 msgstr "Liste de POI pour reconstruction multiple future"
 
@@ -332,7 +331,6 @@ msgstr "Nom"
 msgid "Map"
 msgstr "Carte"
 
-#, fuzzy
 msgid "Locate on click only"
 msgstr "Localisez sur cliquez seulement"
 
@@ -522,7 +520,6 @@ msgstr "Transfert vers carte SD"
 msgid "Select SD card:"
 msgstr "Sélectionnez la carte SD:"
 
-#, fuzzy
 msgid "Final DB path:"
 msgstr "Chemin du fichier DB:"
 
@@ -572,8 +569,7 @@ msgid "Error"
 msgstr "Erreur"
 
 msgid "Cannot move category to category containing POIs!"
-msgstr ""
-"Une catégorie ne peut être déplacée dans une catégorie qui contient déjà des POIs!"
+msgstr "Une catégorie ne peut être déplacée dans une catégorie qui contient déjà des POIs!"
 
 msgid "Nothing to burn!"
 msgstr "Pas de disque présent!"
@@ -585,8 +581,7 @@ msgid "Cannot find require SQLite driver"
 msgstr "Le driver SQLite est introuvable"
 
 msgid "Missing file 'customPOI.base'! Get latest proper version."
-msgstr ""
-"Le fichier 'customPOI.base' est introuvable! Utilisation d'une version précédente."
+msgstr "Le fichier 'customPOI.base' est introuvable! Utilisation d'une version précédente."
 
 msgid "New db"
 msgstr "Nouveau fichier DB"
@@ -601,8 +596,7 @@ msgid "Entire database has been successfully rebuilded."
 msgstr "La base de données a totalement été reconstruite avec succès"
 
 msgid "Cannot add child category to category containing POIs!"
-msgstr ""
-"Une catégorie fille ne peut être crée dans une catégorie qui contient déjà des POIs!"
+msgstr "Une catégorie fille ne peut être crée dans une catégorie qui contient déjà des POIs!"
 
 msgid "File '"
 msgstr "Fichier '"
@@ -728,13 +722,10 @@ msgid "Wait (%ds)"
 msgstr "Patientez (%ds)"
 
 msgid ""
-"To avoid this message and to get full functionality,  donate at least %s.           I "
-"guess, that it doesn't ruin you and you can support future development.\n"
+"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
-"Pour éviter ce message et obtenir la pleine fonctionnalité, merci de faire une "
-"donation d'au moins %s.         Cette somme reste modeste et permet de soutenir les "
-"développements futurs.\n"
+"Pour éviter ce message et obtenir la pleine fonctionnalité, merci de faire une donation d'au moins %s.         Cette somme reste modeste et permet de soutenir les développements futurs.\n"
 "L'enregistrement en ligne se fait avec le N° de transaction unique attribué par PayPal."
 
 msgid "Serial:"
@@ -841,4 +832,10 @@ msgid "Donate for unlock!"
 msgstr "Faites une donation pour déverrouiller!"
 
 msgid "Check for the new version"
+msgstr ""
+
+msgid "You have already the latest version."
+msgstr ""
+
+msgid "New version ''%s'' is available at %s"
 msgstr ""

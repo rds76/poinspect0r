@@ -834,3 +834,6 @@ msgstr "Proxy-Einstellungen zum Internet-Zugang"
 
 msgid "Donate for unlock!"
 msgstr "Spenden, um zu entsperren!"
+
+msgid "Check for the new version"
+msgstr ""

@@ -9,7 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
 "Language-Team: \n"
-"Language: es\n"
+"Language: cs\n"
 
 msgid "New POI category"
 msgstr "Nová kategorie POI"
@@ -587,7 +587,7 @@ msgstr "Zadej název nového db3 souboru"
 msgid "File '%s' already exists! Pick different name."
 msgstr "Soubor '%s' existuje! Vyber jiný název."
 
-msgid "Entire database has been succesfully rebuilded."
+msgid "Entire database has been successfully rebuilded."
 msgstr "Celá databáze byla úspěšně rekonstruována."
 
 msgid "Cannot add child category to category containing POIs!"
@@ -617,7 +617,7 @@ msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "Soubor '%s' již existuje. Odstraň soubor a opakuj akci!"
 
 msgid ""
-"Succesfully copied as '%s'.\n"
+"Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
 "Úspěšně zkopírováno jako '%s'.\n"
@@ -795,7 +795,7 @@ msgid "Street"
 msgstr "Ulice"
 
 msgid ""
-"Succesfully exported to disk '%s'.\n"
+"Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
 "Exportováno na disk '%s'.\n"
@@ -830,3 +830,10 @@ msgstr "Pro odemčení pošli příspěvek!"
 
 msgid "Check for the new version"
 msgstr "Zjistit dostupnost nové verze"
+
+msgid "You have already the latest version."
+msgstr "Máš nejnovějsší verzi."
+
+msgid "New version ''%s'' is available at %s"
+msgstr "Nová verze ''%s'' je dostupná na %s"
+

@@ -592,7 +592,7 @@ msgstr ""
 msgid "File '%s' already exists! Pick different name."
 msgstr ""
 
-msgid "Entire database has been succesfully rebuilded."
+msgid "Entire database has been successfully rebuilded."
 msgstr ""
 
 msgid "Cannot add child category to category containing POIs!"
@@ -618,7 +618,7 @@ msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr ""
 
 msgid ""
-"Succesfully copied as '%s'.\n"
+"Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
 
@@ -791,7 +791,7 @@ msgid "Street"
 msgstr ""
 
 msgid ""
-"Succesfully exported to disk '%s'.\n"
+"Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
 

@@ -598,7 +598,7 @@ msgstr "Introduza um nome para o ficheiro db3"
 msgid "File '%s' already exists! Pick different name."
 msgstr "O ficheiro '%s' já existe! Escolha outro nome."
 
-msgid "Entire database has been succesfully rebuilded."
+msgid "Entire database has been successfully rebuilded."
 msgstr "A base de dados foi totalmente reconstruida com sucesso."
 
 msgid "Cannot add child category to category containing POIs!"
@@ -629,7 +629,7 @@ msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "O ficheiro '%s' já existe. Remova o ficheiro e repita a operação!"
 
 msgid ""
-"Succesfully copied as '%s'.\n"
+"Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
 "Copiado com sucesso para o cartão SD como '%s'.\n"
@@ -814,7 +814,7 @@ msgid "Street"
 msgstr ""
 
 msgid ""
-"Succesfully exported to disk '%s'.\n"
+"Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
 

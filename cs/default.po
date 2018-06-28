@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2018-06-27 21:58+0200\n"
-"PO-Revision-Date: 2018-06-28 22:47+0200\n"
+"PO-Revision-Date: 2018-06-28 23:18+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -861,3 +861,6 @@ msgstr "Zdá se, že došlo k dosažení limitu pro stahování. Zkus to pozděj
 
 msgid "Processing data, please wait..."
 msgstr "Zpracování dat, čekej prosím..."
+
+msgid "No %s data parsed. Wrong encoding or format?"
+msgstr "Nebyly analyzovány žádné %s data. Chybné kódování nebo formát?"

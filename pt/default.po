@@ -837,3 +837,30 @@ msgstr ""
 
 msgid "New version ''%s'' is available at %s"
 msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Online POIs"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Search (F3)"
+msgstr ""
+
+msgid "Not found!"
+msgstr ""
+
+msgid "Unzip error:"
+msgstr ""
+
+msgid "Invalid zip file:"
+msgstr ""
+
+msgid "Looks like download limit reached. Try it later..."
+msgstr ""
+
+msgid "Processing data, please wait..."
+msgstr ""

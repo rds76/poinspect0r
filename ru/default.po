@@ -1,0 +1,840 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: POInspect0r\n"
+"POT-Creation-Date: 2018-06-27 21:58+0200\n"
+"PO-Revision-Date: 2018-06-28 21:56+0200\n"
+"Last-Translator: rds <l94599@email.cz>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+
+msgid "New POI category"
+msgstr "Новая категория POI"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "POI detail"
+msgstr "POI реквизит"
+
+msgid "Max map scale:"
+msgstr "Максимальный масштаб карты:"
+
+msgid "m"
+msgstr "м"
+
+msgid "POI data file (asc|gpx|kml|ov2):"
+msgstr "Файл POI (asc|gpx|kml|ov2):"
+
+msgid "Appand poi file to the list for future multiple rebuilding"
+msgstr "Добавить файл POI в список для последующей обработки"
+
+msgid "Auto link to alpha sort category"
+msgstr "Автоматическая ссылка на алфавитную сортировку"
+
+msgid "Show POI preview dialog"
+msgstr "Показать диалог предпросмотра POI"
+
+msgid "Group category"
+msgstr "Категория группы"
+
+msgid "Icon"
+msgstr "Логотип"
+
+msgid "PNG images (*.png)|*.png"
+msgstr "PNG изображения (*.png)|*.png"
+
+msgid "New from file"
+msgstr "Новое из файла"
+
+msgid "Existing"
+msgstr "Существующий"
+
+msgid "Extra options"
+msgstr "Дополнительные настройки"
+
+msgid "Auto link to similar group category (different brand)"
+msgstr "Автоматическая ссылка к подобной категории (другой бренд)"
+
+msgid "Select item"
+msgstr "Выбрать элемент"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Icon:"
+msgstr "Логотип:"
+
+msgid "Add translation to selected language"
+msgstr "Добавить перевод в выбранный язык"
+
+msgid "POIs"
+msgstr "POI"
+
+msgid "Map zoom level:"
+msgstr "Масштаб:"
+
+msgid "Map priority:"
+msgstr "Приоритет карт:"
+
+msgid "Alert distance:"
+msgstr "Дистанция оповещения:"
+
+msgid "meters"
+msgstr "Метры"
+
+msgid "Delete current POIs before add!"
+msgstr "Удалить текущие POI перед добавлением!"
+
+msgid "Batch POI rebuild"
+msgstr "Обработка POI"
+
+msgid "All POIs for categories listed below will be deleted and replaced with new one!"
+msgstr "Все POI указанных ниже категорий будут стерты и заменены новыми!"
+
+msgid "Run batch!"
+msgstr "Отредактировать!"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Icons"
+msgstr "Логотипы"
+
+msgid "* icon name [#used in categories]"
+msgstr "* имя логотипа [#по категориям]"
+
+msgid "Add new icon"
+msgstr "Добавить новый логотип"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Folder import"
+msgstr "Импорт папки"
+
+msgid "Portable Network Graphics (*.png)|*.png"
+msgstr "PNG изображения (*.png)|*.png"
+
+msgid "Select icon file"
+msgstr "Выбрать файл логотипа"
+
+msgid "Select folder contains PNG{34x39} files (include subdirs)"
+msgstr "Выбрать папку, содержащую PNG-изображения {34x39} (вкл. вложенные)"
+
+msgid "ISO create & Burn"
+msgstr "Создать & Записать ISO"
+
+msgid "Volume ID:"
+msgstr "ID тома:"
+
+msgid "ISO creating progress:"
+msgstr "Процесс содания ISO:"
+
+msgid "- use different ID from  navi map"
+msgstr "- используйте другой идентификатор  на карте"
+
+msgid "Burning progress:"
+msgstr "Прогресс записи:"
+
+msgid "DVD-RW:"
+msgstr "DVD-RW:"
+
+msgid "Default language:"
+msgstr "Язык по умолчанию:"
+
+msgid "Orig.vol ID:"
+msgstr "Исх. ID тома:"
+
+msgid "Start"
+msgstr "Начать"
+
+msgid "Burn image"
+msgstr "Записать образ"
+
+msgid "Show log"
+msgstr "Показать журнал"
+
+msgid "Original volume ID from DVD map"
+msgstr "Исходный ID тома с DVD карты"
+
+msgid "Donate !!!"
+msgstr "Пожертвуйте !!!"
+
+msgid "ID code:"
+msgstr "ID код:"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "DV"
+msgstr "DV"
+
+msgid "Donate"
+msgstr "Пожертвуйте"
+
+msgid "Enter SN"
+msgstr "Введите серийный номер"
+
+msgid "Online SN registration"
+msgstr "Онлайн регистрация"
+
+msgid "Online SN registration - how to"
+msgstr "Онлайн регистрация серийного номера - подсказка"
+
+msgid "Build in DVD POIs"
+msgstr "Встроенные DVD POI"
+
+msgid "Disk/Folder:"
+msgstr "Диск/Папка:"
+
+msgid "Lang:"
+msgstr "Язык:"
+
+msgid "DB version:"
+msgstr "Версия базы:"
+
+msgid "Volume:"
+msgstr "Том:"
+
+msgid "Mutli rebuild"
+msgstr "Перестраивание"
+
+msgid "Create ISO && Burn DVD"
+msgstr "Создать образ & Записать DVD"
+
+msgid "Area:"
+msgstr "Область:"
+
+msgid "Version:"
+msgstr "Версия:"
+
+msgid "Preferences"
+msgstr "Настройки"
+
+msgid "Load"
+msgstr "Загрузить"
+
+msgid "Select RNS510 DVD map disc/folder"
+msgstr "Выбрать RNS510 DVD карту диск/папка"
+
+msgid "Detail"
+msgstr "Сведения"
+
+msgid "Category ID:"
+msgstr "ID категории:"
+
+msgid "Category name:"
+msgstr "Имя категории:"
+
+msgid "Involved lines:"
+msgstr "Задействованные линии:"
+
+msgid "Icon file:"
+msgstr "Файл логотипа:"
+
+msgid "Search attrib. values (from SADESC):"
+msgstr "Поиск атрибутов (из SADESC):"
+
+msgid "List attrib. values (from IADESC):"
+msgstr "Показать список значений (из SADESC):"
+
+msgid "Search form:"
+msgstr "Поиск в:"
+
+msgid "URL/IDX:"
+msgstr "URL/IDX:"
+
+msgid "Is group category:"
+msgstr "Является групповой категорией:"
+
+msgid "SF"
+msgstr "SF"
+
+msgid "ST"
+msgstr "ST"
+
+msgid "DB3 POIs"
+msgstr "DB3 POI"
+
+msgid "DB3 file:"
+msgstr "DB3 файл:"
+
+msgid "Created:"
+msgstr "Создан:"
+
+msgid "DB ID:"
+msgstr "ID базы:"
+
+msgid "Core ver.:"
+msgstr "Версия ядра:"
+
+msgid "POI ver.:"
+msgstr "POI вер.:"
+
+msgid "Icon set:"
+msgstr "Логотип:"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "Reload"
+msgstr "Перезагрузить"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "SQLlite files (*.db3)|*.db3"
+msgstr "SQLlite-файлы (*.db3)|*.db3"
+
+msgid "POI list"
+msgstr "Список POI"
+
+msgid "Zoom level:"
+msgstr "Уровень масштабирования:"
+
+msgid "Total rec. count:"
+msgstr "Общее количество записей:"
+
+msgid "Select columns"
+msgstr "Выбрать столбцы"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "At least one column must be visible!"
+msgstr "Должен отображаться хотя бы один столбец!"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Locate on click only"
+msgstr "Показывать только при выборе"
+
+msgid "Enter search text..."
+msgstr "Введите искомый текст..."
+
+msgid "Add POI/group category"
+msgstr "Добавить POI/категорию группы"
+
+msgid "- after selected poi"
+msgstr "- после выбранного POI"
+
+msgid "- before selected poi"
+msgstr "- перед выбранным POI"
+
+msgid "- as 1st child of selected group"
+msgstr "- как первая запись в выбранной группе"
+
+msgid "Link POI|cat - Copy/Paste"
+msgstr "Ссылка POI|кат - Копировать/Вставить"
+
+msgid "Copy selected"
+msgstr "Копировать выбранное"
+
+msgid "Paste after selected"
+msgstr "Вставить после выбранного"
+
+msgid "Paste before selected"
+msgstr "Вставить перед выбранным"
+
+msgid "Paste as 1st child of selected group"
+msgstr "Вставить как 1-й встроенный элемент выбранной группы"
+
+msgid "Link POI|cat from selection"
+msgstr "Ссылка POI|кaт из выбранного"
+
+msgid "- after selected"
+msgstr "- после выбранного"
+
+msgid "- before selected"
+msgstr "- перед выбранным"
+
+msgid "Unlink"
+msgstr "Удалить ссылку"
+
+msgid "Unlink all occurences"
+msgstr "Удалить все ссылки"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Rebuild new IDX/URL"
+msgstr "Сформировать новый IDX/URL"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Open POI data file"
+msgstr "Открыть файл POI"
+
+msgid "Category ID"
+msgstr "ID категории"
+
+msgid "Icon ID"
+msgstr "ID логотипа"
+
+msgid "Image ID"
+msgstr "ID изображения"
+
+msgid "Category name"
+msgstr "Имя категории"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Icon Name"
+msgstr "Имя логотипа"
+
+msgid "PoiID"
+msgstr "POI ID"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Longitude"
+msgstr "Долгота"
+
+msgid "_ID"
+msgstr "_ID"
+
+msgid "House#"
+msgstr "Дом#"
+
+msgid "ISO Country"
+msgstr "Cтрана ISO"
+
+msgid "Phone#"
+msgstr "Телефон#"
+
+msgid "Add category"
+msgstr "Добавить категорию"
+
+msgid "- as sibling"
+msgstr "- равнозначную"
+
+msgid "- as child"
+msgstr "- встроенную"
+
+msgid "Edit category"
+msgstr "Редактировать категорию"
+
+msgid "Delete category"
+msgstr "Удалить категорию"
+
+msgid "Add POIs"
+msgstr "Добавить POI"
+
+msgid "Delete POIs"
+msgstr "Удалить POI"
+
+msgid "Extract POIs"
+msgstr "Извлечь POI"
+
+msgid "Icons..."
+msgstr "Логотипы..."
+
+msgid "Batch POI rebuild..."
+msgstr "Обработка POI ..."
+
+msgid "Transfer current DB to SD card"
+msgstr "Перенести текущую базу на SD-карту"
+
+msgid "Vacuum current DB"
+msgstr "Очистить текущую базу"
+
+msgid "Select SD card disk"
+msgstr "Выбрать диск с SD-картой"
+
+msgid "Multiple rebuild IDX/URL"
+msgstr "Перестраивание IDX/URL"
+
+msgid "Path"
+msgstr "Путь"
+
+msgid "STATUS"
+msgstr "СТАТУС"
+
+msgid "Imported POI list preview"
+msgstr "Предпросмотр импортируемых POI"
+
+msgid "# of POIs: "
+msgstr "# POI: "
+
+msgid "Lon"
+msgstr "Дол"
+
+msgid "Lat"
+msgstr "Шир"
+
+msgid "Progress"
+msgstr "Прогресс"
+
+msgid "Parsing..."
+msgstr "Анализ..."
+
+msgid "Main"
+msgstr "Главная"
+
+msgid "Start from ID:"
+msgstr "Начать с ID:"
+
+msgid "Output IDX/URL:"
+msgstr "Вывод IDX/URL:"
+
+msgid "POI data encoding"
+msgstr "Кодировка POI"
+
+msgid "Input files"
+msgstr "Исходные файлы"
+
+msgid "Transfer to SD card"
+msgstr "Перенести на SD-карту"
+
+msgid "Select SD card:"
+msgstr "Выбрать SD-карту:"
+
+msgid "Final DB path:"
+msgstr "Окончательный путь к базе:"
+
+msgid "Missing TPD-UPI tag!"
+msgstr "Отсутствует TPD-UPI тег!"
+
+msgid "Can't find TPD-UPI folder!"
+msgstr "Папка TPD-UPI не найдена!"
+
+msgid "Missing TPD-DEF(Default language) tag!"
+msgstr "Отсутствует TPD-DEF тег (Язык по умолчанию)!"
+
+msgid "Missing TPD-LSC(Languages list) tag!"
+msgstr "Отсутствует TPD-LSC тег (список языков)!"
+
+msgid "Can't find TABLES folder!"
+msgstr "Папка таблиц не найдена!"
+
+msgid "Category has no POIs!"
+msgstr "Категория не содержит POI!"
+
+msgid "Can't add poi here!"
+msgstr "Невозможно добавить сюда POI!"
+
+msgid "Can't add poi here. Only group category is allowed here!"
+msgstr "Невозможно добавить сюда POI. Здесь разрешена только группа!"
+
+msgid "Icon name %s already exists in map, going to use existing one."
+msgstr "Логотип '%s' уже существует на карте, использовать существующий."
+
+msgid "Add POI done."
+msgstr "Добавление POI завершено."
+
+msgid "Saved."
+msgstr "Сохранено."
+
+msgid "Can't put poi here. Only group category are allowed here!"
+msgstr "Невозможно вставить сюда POI. Здесь разрешены только группы!"
+
+msgid "Rebuild done."
+msgstr "Формирование завершено."
+
+msgid "Files:"
+msgstr "Файлы:"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Cannot move category to category containing POIs!"
+msgstr "Невозможно переместить категорию в категорию, содержащую POI!"
+
+msgid "Nothing to burn!"
+msgstr "Нет данных для записи!"
+
+msgid "DB file '%s' not found!"
+msgstr "Файл базы '%s' не найден!"
+
+msgid "Cannot find require SQLite driver"
+msgstr "Не найдены необходимые драйверы SQWL"
+
+msgid "Missing file 'customPOI.base'! Get latest proper version."
+msgstr "Отсутствует файл 'customPOI.base'! Получить последнюю версию."
+
+msgid "New db"
+msgstr "Новая база"
+
+msgid "Enter new db3 filename"
+msgstr "Введите имя нового db3-файла"
+
+msgid "File '%s' already exists! Pick different name."
+msgstr "Файл '%s' уже существует, выберите другое имя."
+
+msgid "Entire database has been successfully rebuilded."
+msgstr "Исходная база успешно перестроена."
+
+msgid "Cannot add child category to category containing POIs!"
+msgstr "Невозможно добавить встроенную категорию в категорию, содержащую POI!"
+
+msgid "File '"
+msgstr "Файл '"
+
+msgid ""
+"' not found!\n"
+"Add some POIs 1st."
+msgstr ""
+"' не найден!\n"
+"Cначала добавьте POI."
+
+msgid ""
+"No input file found! [%s]\n"
+"Create it or use addPOI with this feature."
+msgstr ""
+"Исходный файл не найден! [%s]\n"
+"Создайте его или воспользуйтесь функцией addPOI."
+
+msgid "Rebuild (vacuum) entire DB and copy to SD card?"
+msgstr "Сформировать (очистить) базу и скопировать на SD-карту?"
+
+msgid "File '%s' already exists. Remove the file then repeat action!"
+msgstr "Файл '%s' уже существует. Удалите файл, затем повторите действие!"
+
+msgid ""
+"Successfully copied as '%s'.\n"
+"Remove SD card and take it to the car...:-)"
+msgstr ""
+"Успешно скопировано как '%s'.\n"
+"Извлеките SD-карту и установите ее в вашу магнитолу..."
+
+msgid "Are you sure to unlink selected item?"
+msgstr "Вы уверены, что хотите отменить связь для выбранного элемента?"
+
+msgid "Can't unlink POI!"
+msgstr "Невозможно отвязать POI!"
+
+msgid "Unlink POI done."
+msgstr "Ссылка на POI удалена."
+
+msgid "Unlink POIs done."
+msgstr "Ссылки на POI удалены."
+
+msgid "Are you sure to unlink all occurences of selected item?"
+msgstr "Вы уверены, что хотите отменить связи для всех выбранных элементов?"
+
+msgid "Delete POI done."
+msgstr "POI удален."
+
+msgid "Delete all pois for this category?"
+msgstr "Удалить все POI этой категории?"
+
+msgid "Icon details"
+msgstr "Сведения о логотипе"
+
+msgid "Image dimensions"
+msgstr "Размер изображения"
+
+msgid "Category details"
+msgstr "Сведения о категории"
+
+msgid "POI details"
+msgstr "POI реквизиты"
+
+msgid "Are you sure to delete selected item?"
+msgstr "Вы уверены, что хотите удалить выбранные элементы?"
+
+msgid "Cannot delete this category!"
+msgstr "Невозможно удалить эту категорию!"
+
+msgid "Delete category '%s' ?"
+msgstr "Удалить категорию '%s' ?"
+
+msgid "Cannot add POIs to parent category!"
+msgstr "Невозможно добавить POI в исходную категорию!"
+
+msgid "[Unlinked items]"
+msgstr "[Несвязанные элементы]"
+
+msgid "Fill all required values!"
+msgstr "Заполните все необходимые значения!"
+
+msgid "Icon name '%s' already exist, select another name!"
+msgstr "Логотип '%s' уже существует, выберите другое имя!"
+
+msgid "Ready."
+msgstr "Готово."
+
+msgid "File not found!"
+msgstr "Файл не найден!"
+
+msgid "Category not found!"
+msgstr "Категория не найдена!"
+
+msgid "Clearing old POIs..."
+msgstr "Очистка устаревших POI..."
+
+msgid "Importing POIs..."
+msgstr "Импорт POI..."
+
+msgid "Done."
+msgstr "Готово."
+
+msgid "Skipped."
+msgstr "Пропущено."
+
+msgid "Batch job finished!"
+msgstr "Обработка завершена!"
+
+msgid "Icon name '%s' already exists!"
+msgstr "Логотип '%s' уже существует!"
+
+msgid "Wrong image size (34x39)! File:"
+msgstr "Несоответствующий размер изображения (не 34x39)! Файл:"
+
+msgid "Make sure you have inserted empty DVD disk in dvd drive %s !"
+msgstr "Убедитесь, что вы вставили чистый DVD диск в дисковод %s !"
+
+msgid "DONE."
+msgstr "Готово."
+
+msgid "Wait (%ds)"
+msgstr "Ждите (%ds)"
+
+msgid ""
+"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it doesn't ruin you and you can support future development.\n"
+"Then you can register online with assigned Paypal transaction number."
+msgstr "Чтобы избежать этого сообщения впредь и получить полную функциональность, пожертвуйте по крайней мере %s. Я думаю, это не разорит вас, и вы сможете поддержать дальнейшее развитие."
+
+msgid "Serial:"
+msgstr "Серийный номер:"
+
+msgid "Please restart application."
+msgstr "Пожалуйста, перезапустите приложение."
+
+msgid "Registration"
+msgstr "Регистрация"
+
+msgid "Enter PayPal transaction ID (Confirmation number)"
+msgstr ""
+"Введите код транзакции PayPal\n"
+"(номер подтверждения)"
+
+msgid "Response error:"
+msgstr "Ошибка ответа:"
+
+msgid "building..."
+msgstr "обработка ..."
+
+msgid "done."
+msgstr "готово."
+
+msgid "ID not found."
+msgstr "ID не найден."
+
+msgid "file not found."
+msgstr "файл не найден."
+
+msgid "skipped"
+msgstr "пропущено"
+
+msgid "Unknown file extension!"
+msgstr "Неизвестное расширение файла!"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Program"
+msgstr "Программа"
+
+msgid "Check for duplicate coordinates"
+msgstr "Проверить на повторяющиеся координаты"
+
+msgid "*Only for some Discover units. Value >0 makes it warnable."
+msgstr "*только для Discover-устройств. Значение >0 делает возможным звуковое предупреждение."
+
+msgid "Drop unused icons"
+msgstr "Удалить неиспользуемые логотипы"
+
+msgid "Enable 39x39 icons (only for Discover units!!!!)"
+msgstr "Активировать логотипы 39x39 (только для Discover-устройств!!!)"
+
+msgid "Select SD card / Flash disk:"
+msgstr "Выбрать диск с SD/Flash-картой:"
+
+msgid "*Note: All categories are exported into root level "
+msgstr "*Примечание: все категории экспортируются в корневовой уровень "
+
+msgid "City"
+msgstr "Город"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Street"
+msgstr "Улица"
+
+msgid ""
+"Successfully exported to disk '%s'.\n"
+"Remove SD card and take it to the car with Discover navi system...:-)"
+msgstr ""
+"Успешно скопировано на диск \"%s\".\n"
+"Извлеките SD-карту и установите ее в вашу Discover navi-магнитолу..."
+
+msgid "Delete POI"
+msgstr "Удалить POI"
+
+msgid "Village"
+msgstr "Населенный пункт"
+
+msgid "Donated version."
+msgstr "Версия поддержана пожертвованием."
+
+msgid "Donate for unlock all functions!"
+msgstr "Пожертвуйте для получения полной функциональности!"
+
+msgid "Radius in meters to find duplicates (square area):"
+msgstr "Радиус в метрах, для поиска дубликатов (по площади):"
+
+msgid "Leave empty to disable"
+msgstr "Оставьте пустым, чтобы отключить"
+
+msgid "Use system settings"
+msgstr "Использовать системные настройки"
+
+msgid "Proxy settings for internet connection"
+msgstr "Параметры прокси-сервера для подключения к интернету"
+
+msgid "Donate for unlock!"
+msgstr "Пожертвуйте для разблокировки!"
+
+msgid "Check for the new version"
+msgstr "Проверить наличие обновлений"
+
+msgid "You have already the latest version."
+msgstr "У вас самая последняя версия."
+
+msgid "New version ''%s'' is available at %s"
+msgstr "Новая версия ''%s'' доступна на %s"

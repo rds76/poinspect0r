@@ -859,3 +859,6 @@ msgstr ""
 
 msgid "No %s data parsed. Wrong encoding or format?"
 msgstr ""
+
+msgid "Show all on map"
+msgstr ""

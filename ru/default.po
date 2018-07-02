@@ -867,7 +867,7 @@ msgid "Processing data, please wait..."
 msgstr "Обработка данных, пожалуйста, подождите..."
 
 msgid "No %s data parsed. Wrong encoding or format?"
-msgstr ""
+msgstr "Данные %s не обработаны. Неверное кодирование или форматирование"
 
 msgid "Show all on map"
-msgstr ""
+msgstr "Показать все на карте"

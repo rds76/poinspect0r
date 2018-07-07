@@ -813,61 +813,61 @@ msgid "Donated version."
 msgstr "Vesión completa (con donación)."
 
 msgid "Donate for unlock all functions!"
-msgstr "Done para desbloquear todas las funciones!"
+msgstr "¡Done para desbloquear todas las funciones!"
 
 msgid "Radius in meters to find duplicates (square area):"
-msgstr ""
+msgstr "Radio en metros para localizar POIs duplicados:"
 
 msgid "Leave empty to disable"
-msgstr ""
+msgstr "Dejar vacío para deshabilitar"
 
 msgid "Use system settings"
-msgstr ""
+msgstr "Usar configuración del sistema"
 
 msgid "Proxy settings for internet connection"
-msgstr ""
+msgstr "Configuración de proxy para conexión a internet"
 
 msgid "Donate for unlock!"
-msgstr ""
+msgstr "¡Done para desbloquear!"
 
 msgid "Check for the new version"
-msgstr ""
+msgstr "Comprobar si hay una nueva versión"
 
 msgid "You have already the latest version."
-msgstr ""
+msgstr "Ya tiene actualmente la última versión disponible."
 
 msgid "New version ''%s'' is available at %s"
-msgstr ""
+msgstr "Nueva versión ''%s'' disponible en %s"
 
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgid "Online POIs"
-msgstr ""
+msgstr "POIs Online"
 
 msgid "Search:"
-msgstr ""
+msgstr "Buscar:"
 
 msgid "Search (F3)"
-msgstr ""
+msgstr "Buscar (F3)"
 
 msgid "Not found!"
-msgstr ""
+msgstr "¡No encontrado!"
 
 msgid "Unzip error:"
-msgstr ""
+msgstr "Error al descomprimir:"
 
 msgid "Invalid zip file:"
-msgstr ""
+msgstr "Fichero comprimido no válido:"
 
 msgid "Looks like download limit reached. Try it later..."
-msgstr ""
+msgstr "Se ha llegado al límite de descargas. Por favor inténtelo más tarde..."
 
 msgid "Processing data, please wait..."
-msgstr ""
+msgstr "Procesando datos, por favor espere..."
 
 msgid "No %s data parsed. Wrong encoding or format?"
-msgstr ""
+msgstr "No se ha procesado los datos %s.  ¿Incorrecta codificación o formato?"
 
 msgid "Show all on map"
-msgstr ""
+msgstr "Mostarlos todos en el mapa"

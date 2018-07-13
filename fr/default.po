@@ -832,43 +832,43 @@ msgid "Donate for unlock!"
 msgstr "Faites une donation pour déverrouiller!"
 
 msgid "Check for the new version"
-msgstr ""
+msgstr "Rechercher une mise à jour"
 
 msgid "You have already the latest version."
-msgstr ""
+msgstr "Vous possédez déjà la dernière version"
 
 msgid "New version ''%s'' is available at %s"
-msgstr ""
+msgstr "La nouvelle version ''%s'' est disponible ici %s"
 
 msgid "Online"
-msgstr ""
+msgstr "En ligne"
 
 msgid "Online POIs"
-msgstr ""
+msgstr "POIs en ligne"
 
 msgid "Search:"
-msgstr ""
+msgstr "Rechercher"
 
 msgid "Search (F3)"
-msgstr ""
+msgstr "Rechercher (F3)"
 
 msgid "Not found!"
-msgstr ""
+msgstr "Non trouvé"
 
 msgid "Unzip error:"
-msgstr ""
+msgstr "Erreur de dézippage"
 
 msgid "Invalid zip file:"
-msgstr ""
+msgstr "Fichier ZIP invalide"
 
 msgid "Looks like download limit reached. Try it later..."
-msgstr ""
+msgstr "Limite de téléchargement probablement atteinte. Veuillez réessayer ultérieurement"
 
 msgid "Processing data, please wait..."
-msgstr ""
+msgstr "Procédure en cours, veuillez patienter"
 
 msgid "No %s data parsed. Wrong encoding or format?"
-msgstr ""
+msgstr "Données %s non traitées. Encodage ou format incorrect?"
 
 msgid "Show all on map"
-msgstr ""
+msgstr "Tout visualiser sur la carte"

@@ -1,20 +1,15 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
-"POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-14 21:55+0200\n"
+"POT-Creation-Date: 2018-06-27 21:58+0200\n"
+"PO-Revision-Date: 2018-08-02 14:56+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
+"Language-Team: \n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
-"Language-Team: \n"
-"Language: es\n"
 
 msgid "New POI category"
 msgstr "Nová kategorie POI"
@@ -35,7 +30,7 @@ msgid "POI detail"
 msgstr "Detail POI"
 
 msgid "Max map scale:"
-msgstr "Max. měřitko mapy:"
+msgstr "Max. měřítko mapy:"
 
 msgid "m"
 msgstr "m"
@@ -44,7 +39,7 @@ msgid "POI data file (asc|gpx|kml|ov2):"
 msgstr "Datový soubor POI (asc|gpx|kml|ov2):"
 
 msgid "Appand poi file to the list for future multiple rebuilding"
-msgstr "Přidej soubor POI do seznamu pro pozdější hormadný rebuild"
+msgstr "Přidej soubor POI do seznamu pro pozdější hromadný rebuild"
 
 msgid "Auto link to alpha sort category"
 msgstr "Automaticky propoj do 'alpha sort' kategorie"
@@ -101,7 +96,7 @@ msgid "meters"
 msgstr "metry"
 
 msgid "Delete current POIs before add!"
-msgstr "Smaž stavajicí POI body před přidáním!"
+msgstr "Smaž stávající POI body před přidáním!"
 
 msgid "Batch POI rebuild"
 msgstr "Hromadná aktualizace POI bodů"
@@ -173,13 +168,13 @@ msgid "Burn image"
 msgstr "Vypal obraz"
 
 msgid "Show log"
-msgstr "Zobraz log:"
+msgstr "Zobraz log"
 
 msgid "Original volume ID from DVD map"
 msgstr "Original volume ID from DVD map"
 
 msgid "Donate !!!"
-msgstr "¡¡¡¡ Přispěj !!!!"
+msgstr "Přispěj !!!"
 
 msgid "ID code:"
 msgstr "ID kód:"
@@ -311,7 +306,7 @@ msgid "POI list"
 msgstr "Seznam POI"
 
 msgid "Zoom level:"
-msgstr "Zoom:"
+msgstr "Zvětšení:"
 
 msgid "Total rec. count:"
 msgstr "Celkem záznamů:"
@@ -449,10 +444,10 @@ msgid "Delete category"
 msgstr "Smaž kategorii"
 
 msgid "Add POIs"
-msgstr "Přidat POI"
+msgstr "Přidat POI body"
 
 msgid "Delete POIs"
-msgstr "Smazat POI"
+msgstr "Smazat všechny POI v kategorii"
 
 msgid "Extract POIs"
 msgstr "Export POI do souboru"
@@ -461,7 +456,7 @@ msgid "Icons..."
 msgstr "Ikony..."
 
 msgid "Batch POI rebuild..."
-msgstr "Skupinová aktualizace POI bodů..."
+msgstr "Hormadná aktualizace POI bodů..."
 
 msgid "Transfer current DB to SD card"
 msgstr "Přenos/export stávající DB na SD kartu"
@@ -485,7 +480,7 @@ msgid "Imported POI list preview"
 msgstr "Náhled importovaných POI bodů"
 
 msgid "# of POIs: "
-msgstr "#  POI:"
+msgstr "# POI: "
 
 msgid "Lon"
 msgstr "Lon"
@@ -592,7 +587,7 @@ msgstr "Zadej název nového db3 souboru"
 msgid "File '%s' already exists! Pick different name."
 msgstr "Soubor '%s' existuje! Vyber jiný název."
 
-msgid "Entire database has been succesfully rebuilded."
+msgid "Entire database has been successfully rebuilded."
 msgstr "Celá databáze byla úspěšně rekonstruována."
 
 msgid "Cannot add child category to category containing POIs!"
@@ -622,7 +617,7 @@ msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "Soubor '%s' již existuje. Odstraň soubor a opakuj akci!"
 
 msgid ""
-"Succesfully copied as '%s'.\n"
+"Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
 "Úspěšně zkopírováno jako '%s'.\n"
@@ -722,13 +717,11 @@ msgid "Wait (%ds)"
 msgstr "Čekej (%ds)"
 
 msgid ""
-"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it "
-"doesn't ruin you and you can support future development.\n"
+"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
-"Nechceš-li vidět tuto zprávu a chceš plnou funkncionalitu_,  přispěj alespoň %s.           Myslím že tě "
-"to nezruinuje a podpoříš další vývoj.\n"
-"Pak si můžes produkt zaregistrovat online s Paypal číslem transakce."
+"Nechceš-li vidět tuto zprávu a chceš plnou funkcionalitu, přispěj alespoň %s. Myslím, že tě to nezruinuje a podpoříš další vývoj.\n"
+"Pak si můžeš produkt zaregistrovat online s PayPal číslem transakce."
 
 msgid "Serial:"
 msgstr "Seriálové číslo:"
@@ -773,16 +766,16 @@ msgid "Check for duplicate coordinates"
 msgstr "Nahraď pro duplicitní souřadnice"
 
 msgid "*Only for some Discover units. Value >0 makes it warnable."
-msgstr "*pouze některé jednotky Discover.  Hodnota >0 zapne upozornění."
+msgstr "*pouze některé jednotky Discover. Hodnota >0 zapne upozornění."
 
-msgid "Drop unsed icons"
+msgid "Drop unused icons"
 msgstr "Smazat nepoužité ikony"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"
 msgstr "Povolit ikony rozměru 39x39 (pouze pro Discover jednotky!)"
 
 msgid "Select SD card / Flash disk:"
-msgstr "Vyber kartu SD / flešku:"
+msgstr "Vyber kartu SD / 'flešku':"
 
 msgid "*Note: All categories are exported into root level "
 msgstr "*Pozn.: Kategorie budou exportovány do hlavní větve "
@@ -800,8 +793,80 @@ msgid "Street"
 msgstr "Ulice"
 
 msgid ""
-"Succesfully exported to disk '%s'.\n"
+"Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
 "Exportováno na disk '%s'.\n"
 "Vyjmi SD kartu a importuj ve vozidle s navigací Discover...:-)"
+
+msgid "Delete POI"
+msgstr "Smaž vybraný POI"
+
+msgid "Village"
+msgstr "Obec"
+
+msgid "Donated version."
+msgstr "Registrovaná verze."
+
+msgid "Donate for unlock all functions!"
+msgstr "Pro odemčení všech funkcí pošli příspěvek!"
+
+msgid "Radius in meters to find duplicates (square area):"
+msgstr "Rozsah hledání duplicit, rádius v metrech (čtvercová plocha):"
+
+msgid "Leave empty to disable"
+msgstr "Nevyplňuj pro vypnutí"
+
+msgid "Use system settings"
+msgstr "Použij systémové nastavení"
+
+msgid "Proxy settings for internet connection"
+msgstr "Nastavení proxy pro připojení k internetu"
+
+msgid "Donate for unlock!"
+msgstr "Pro odemčení pošli příspěvek!"
+
+msgid "Check for the new version"
+msgstr "Zjistit dostupnost nové verze"
+
+msgid "You have already the latest version."
+msgstr "Máš nejnovější verzi."
+
+msgid "New version ''%s'' is available at %s"
+msgstr "Nová verze ''%s'' je dostupná na %s"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Online POIs"
+msgstr "Online POI body"
+
+msgid "Search:"
+msgstr "Najdi:"
+
+msgid "Search (F3)"
+msgstr "Hledej (F3)"
+
+msgid "Not found!"
+msgstr "Nenalezeno!"
+
+msgid "Unzip error:"
+msgstr "Chyba rozbalovaní (Unzip)"
+
+msgid "Invalid zip file:"
+msgstr "Neplatný soubor ZIP:"
+
+msgid "Looks like download limit reached. Try it later..."
+msgstr "Zdá se, že došlo k dosažení limitu pro stahování. Zkus to později..."
+
+msgid "Processing data, please wait..."
+msgstr "Zpracování dat, čekej prosím..."
+
+msgid "No %s data parsed. Wrong encoding or format?"
+msgstr "Nebyly analyzovány žádné %s data. Chybné kódování nebo formát?"
+
+msgid "Show all on map"
+msgstr "Zobraz vše v mapě"
+
+msgid "Check for duplicates during batch POI rebuild"
+msgstr "Kontroluj duplicity během hromadné aktualizace POI"

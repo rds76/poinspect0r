@@ -1,4 +1,3 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -6,14 +5,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
-"POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2013-10-26 21:32+0100\n"
-"Last-Translator: Nicolas MALZAC\n"
+"POT-Creation-Date: 2018-06-27 21:58+0200\n"
+"PO-Revision-Date: 2018-06-26 14:48+0200\n"
+"Last-Translator: rds <l94599@email.cz>\n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
-"Language-Team: \n"
+"X-Generator: Poedit 2.0.5\n"
 "X-Poedit-Bookmarks: -1,-1,-1,156,-1,-1,-1,-1,-1,-1\n"
 
 msgid "New POI category"
@@ -35,7 +35,7 @@ msgid "POI detail"
 msgstr "Détail des POI"
 
 msgid "Max map scale:"
-msgstr "Echelle maximal de la carte:"
+msgstr "Echelle maximale de la carte:"
 
 msgid "m"
 msgstr "m"
@@ -43,7 +43,6 @@ msgstr "m"
 msgid "POI data file (asc|gpx|kml|ov2):"
 msgstr "Fichier de données POI (asc|gpx|kml|ov2):"
 
-#, fuzzy
 msgid "Appand poi file to the list for future multiple rebuilding"
 msgstr "Liste de POI pour reconstruction multiple future"
 
@@ -72,8 +71,7 @@ msgid "Extra options"
 msgstr "Options supplémentaires"
 
 msgid "Auto link to similar group category (different brand)"
-msgstr ""
-"Lien automatique vers les groupes de catégories similaires (autres marques)"
+msgstr "Lien automatique vers les groupes de catégories similaires (autres marques)"
 
 msgid "Select item"
 msgstr "Sélectionnez l'item"
@@ -108,11 +106,8 @@ msgstr "Supprimer les POIs présents avant d'en ajouter!"
 msgid "Batch POI rebuild"
 msgstr "Batch de reconstruction des POIs"
 
-msgid ""
-"All POIs for categories listed below will be deleted and replaced with new "
-"one!"
-msgstr ""
-"Tous les POIs listés ci-dessous seront effacés et remplacés par les nouveaux!"
+msgid "All POIs for categories listed below will be deleted and replaced with new one!"
+msgstr "Tous les POIs listés ci-dessous seront effacés et remplacés par les nouveaux!"
 
 msgid "Run batch!"
 msgstr "Batch en cours!"
@@ -178,13 +173,13 @@ msgid "Burn image"
 msgstr "Gravure image"
 
 msgid "Show log"
-msgstr "aperçu du LOG"
+msgstr "Aperçu du LOG"
 
 msgid "Original volume ID from DVD map"
 msgstr "ID original du DVD de cartographie"
 
 msgid "Donate !!!"
-msgstr "Donation !!!"
+msgstr "Faites une donation !!!"
 
 msgid "ID code:"
 msgstr "ID Code:"
@@ -196,7 +191,7 @@ msgid "DV"
 msgstr "DV"
 
 msgid "Donate"
-msgstr "Donation"
+msgstr "Faites une donation"
 
 msgid "Enter SN"
 msgstr "Entrer la clé d'enregistrement"
@@ -235,7 +230,7 @@ msgid "Version:"
 msgstr "Version:"
 
 msgid "Preferences"
-msgstr "préférences"
+msgstr "Préférences"
 
 msgid "Load"
 msgstr "Charger"
@@ -336,7 +331,6 @@ msgstr "Nom"
 msgid "Map"
 msgstr "Carte"
 
-#, fuzzy
 msgid "Locate on click only"
 msgstr "Localisez sur cliquez seulement"
 
@@ -347,7 +341,7 @@ msgid "Add POI/group category"
 msgstr "Ajout POI/Groupe de catégorie"
 
 msgid "- after selected poi"
-msgstr "- Après POI sélectionné"
+msgstr "- après POI sélectionné"
 
 msgid "- before selected poi"
 msgstr "- avant POI sélectionné"
@@ -526,7 +520,6 @@ msgstr "Transfert vers carte SD"
 msgid "Select SD card:"
 msgstr "Sélectionnez la carte SD:"
 
-#, fuzzy
 msgid "Final DB path:"
 msgstr "Chemin du fichier DB:"
 
@@ -576,9 +569,7 @@ msgid "Error"
 msgstr "Erreur"
 
 msgid "Cannot move category to category containing POIs!"
-msgstr ""
-"Une catégorie ne peut être déplacée dans une catégorie qui contient déjà des "
-"POIs!"
+msgstr "Une catégorie ne peut être déplacée dans une catégorie qui contient déjà des POIs!"
 
 msgid "Nothing to burn!"
 msgstr "Pas de disque présent!"
@@ -590,9 +581,7 @@ msgid "Cannot find require SQLite driver"
 msgstr "Le driver SQLite est introuvable"
 
 msgid "Missing file 'customPOI.base'! Get latest proper version."
-msgstr ""
-"Le fichier 'customPOI.base' est introuvable! Utilisation d'une version "
-"précédente."
+msgstr "Le fichier 'customPOI.base' est introuvable! Utilisation d'une version précédente."
 
 msgid "New db"
 msgstr "Nouveau fichier DB"
@@ -603,13 +592,11 @@ msgstr "Entrez le nouveau nom du fichier DB3"
 msgid "File '%s' already exists! Pick different name."
 msgstr "Le fichier '%s' existe déjà! Choisissez un autre nom."
 
-msgid "Entire database has been succesfully rebuilded."
+msgid "Entire database has been successfully rebuilded."
 msgstr "La base de données a totalement été reconstruite avec succès"
 
 msgid "Cannot add child category to category containing POIs!"
-msgstr ""
-"Une catégorie fille ne peut être crée dans une catégorie qui contient déjà "
-"des POIs!"
+msgstr "Une catégorie fille ne peut être crée dans une catégorie qui contient déjà des POIs!"
 
 msgid "File '"
 msgstr "Fichier '"
@@ -635,7 +622,7 @@ msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr "Le fichier '%s' existe déjà. Supprimer ce fichier et recommencez!"
 
 msgid ""
-"Succesfully copied as '%s'.\n"
+"Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
 "Copie réalisée avec succès : '%s'.\n"
@@ -654,8 +641,7 @@ msgid "Unlink POIs done."
 msgstr "Les POIs sont déliés."
 
 msgid "Are you sure to unlink all occurences of selected item?"
-msgstr ""
-"Etes-vous sur de vouloir désélectionner toutes les occurrences sélectionnées?"
+msgstr "Etes-vous sur de vouloir désélectionner toutes les occurrences sélectionnées?"
 
 msgid "Delete POI done."
 msgstr "Suppression du POI réalisé."
@@ -736,16 +722,11 @@ msgid "Wait (%ds)"
 msgstr "Patientez (%ds)"
 
 msgid ""
-"To avoid this message and to get full functionality,  donate at least "
-"%s.           I guess, that it doesn't ruin you and you can support future "
-"development.\n"
+"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
-"Pour éviter ce message et obtenir la pleine fonctionnalité, merci de faire "
-"une donation d'au moins %s.         Cette somme reste modeste et permet de "
-"soutenir les développements futurs.\n"
-"L'enregistrement en ligne se fait avec le N° de transaction unique attribué "
-"par PayPal."
+"Pour éviter ce message et obtenir la pleine fonctionnalité, merci de faire une donation d'au moins %s.         Cette somme reste modeste et permet de soutenir les développements futurs.\n"
+"L'enregistrement en ligne se fait avec le N° de transaction unique attribué par PayPal."
 
 msgid "Serial:"
 msgstr "N° de série:"
@@ -757,8 +738,7 @@ msgid "Registration"
 msgstr "Enregistrement"
 
 msgid "Enter PayPal transaction ID (Confirmation number)"
-msgstr ""
-"Entrer le N° de transaction unique PayPal (voir détails de la transaction)"
+msgstr "Entrer le N° de transaction unique PayPal (voir détails de la transaction)"
 
 msgid "Response error:"
 msgstr "Erreur de résultat:"
@@ -788,36 +768,110 @@ msgid "Program"
 msgstr "Programme"
 
 msgid "Check for duplicate coordinates"
-msgstr ""
+msgstr "Rechercher des doublons de coordonnées"
 
 msgid "*Only for some Discover units. Value >0 makes it warnable."
-msgstr ""
+msgstr "*Uniquement pour certains systèmes Discover. Toute valeur >0 active l'alerte"
 
-msgid "Drop unsed icons"
-msgstr ""
+msgid "Drop unused icons"
+msgstr "Supprimer les icônes non utilisées"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"
-msgstr ""
+msgstr "Activer l'icône 39x39 (Ne concerne que les systèmes Discover!!!!)"
 
 msgid "Select SD card / Flash disk:"
-msgstr ""
+msgstr "Sélectionez la carte SD / le disque Flash"
 
 msgid "*Note: All categories are exported into root level "
-msgstr ""
+msgstr "*Note: Toutes les catégories sont exportées à la racine "
 
 msgid "City"
-msgstr ""
+msgstr "Ville"
 
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 msgid "Region"
-msgstr ""
+msgstr "Région"
 
 msgid "Street"
-msgstr ""
+msgstr "Rue"
 
 msgid ""
-"Succesfully exported to disk '%s'.\n"
+"Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
+msgstr ""
+"Exportation réussie vers '%s'.\n"
+"Retirez la carte et placez la dans de véhicule équipé du système de navigation Discover"
+
+msgid "Delete POI"
+msgstr "Effacer POI"
+
+msgid "Village"
+msgstr "Village"
+
+msgid "Donated version."
+msgstr "Version Donateur"
+
+msgid "Donate for unlock all functions!"
+msgstr "Faites une donation pour déverrouiller toutes les fonctions"
+
+msgid "Radius in meters to find duplicates (square area):"
+msgstr "Rayon en mètres de recherche des doublons (surface carrée):"
+
+msgid "Leave empty to disable"
+msgstr "Laisser vierge pour désactiver"
+
+msgid "Use system settings"
+msgstr "Utiliser les réglages du système"
+
+msgid "Proxy settings for internet connection"
+msgstr "Réglages du Proxy pour la connexion à internet"
+
+msgid "Donate for unlock!"
+msgstr "Faites une donation pour déverrouiller!"
+
+msgid "Check for the new version"
+msgstr "Rechercher une mise à jour"
+
+msgid "You have already the latest version."
+msgstr "Vous possédez déjà la dernière version"
+
+msgid "New version ''%s'' is available at %s"
+msgstr "La nouvelle version ''%s'' est disponible ici %s"
+
+msgid "Online"
+msgstr "En ligne"
+
+msgid "Online POIs"
+msgstr "POIs en ligne"
+
+msgid "Search:"
+msgstr "Rechercher"
+
+msgid "Search (F3)"
+msgstr "Rechercher (F3)"
+
+msgid "Not found!"
+msgstr "Non trouvé"
+
+msgid "Unzip error:"
+msgstr "Erreur de dézippage"
+
+msgid "Invalid zip file:"
+msgstr "Fichier ZIP invalide"
+
+msgid "Looks like download limit reached. Try it later..."
+msgstr "Limite de téléchargement probablement atteinte. Veuillez réessayer ultérieurement"
+
+msgid "Processing data, please wait..."
+msgstr "Procédure en cours, veuillez patienter"
+
+msgid "No %s data parsed. Wrong encoding or format?"
+msgstr "Données %s non traitées. Encodage ou format incorrect?"
+
+msgid "Show all on map"
+msgstr "Tout visualiser sur la carte"
+
+msgid "Check for duplicates during batch POI rebuild"
 msgstr ""

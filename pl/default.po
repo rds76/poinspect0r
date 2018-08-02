@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
-"POT-Creation-Date: 2013-09-03 21:11\n"
-"PO-Revision-Date: 2018-06-15 08:36+0200\n"
+"POT-Creation-Date: 2018-06-27 21:58+0200\n"
+"PO-Revision-Date: 2018-06-26 14:48+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
+"Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.8\n"
-"Language-Team: \n"
-"Language: es\n"
+"X-Generator: Poedit 2.0.5\n"
 
 msgid "New POI category"
 msgstr ""
@@ -592,7 +592,7 @@ msgstr ""
 msgid "File '%s' already exists! Pick different name."
 msgstr ""
 
-msgid "Entire database has been succesfully rebuilded."
+msgid "Entire database has been successfully rebuilded."
 msgstr ""
 
 msgid "Cannot add child category to category containing POIs!"
@@ -618,7 +618,7 @@ msgid "File '%s' already exists. Remove the file then repeat action!"
 msgstr ""
 
 msgid ""
-"Succesfully copied as '%s'.\n"
+"Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
 
@@ -716,8 +716,7 @@ msgid "Wait (%ds)"
 msgstr ""
 
 msgid ""
-"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it "
-"doesn't ruin you and you can support future development.\n"
+"To avoid this message and to get full functionality,  donate at least %s.           I guess, that it doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
 
@@ -766,7 +765,7 @@ msgstr ""
 msgid "*Only for some Discover units. Value >0 makes it warnable."
 msgstr ""
 
-msgid "Drop unsed icons"
+msgid "Drop unused icons"
 msgstr ""
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"
@@ -791,6 +790,78 @@ msgid "Street"
 msgstr ""
 
 msgid ""
-"Succesfully exported to disk '%s'.\n"
+"Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
+msgstr ""
+
+msgid "Delete POI"
+msgstr ""
+
+msgid "Village"
+msgstr ""
+
+msgid "Donated version."
+msgstr ""
+
+msgid "Donate for unlock all functions!"
+msgstr ""
+
+msgid "Radius in meters to find duplicates (square area):"
+msgstr ""
+
+msgid "Leave empty to disable"
+msgstr ""
+
+msgid "Use system settings"
+msgstr ""
+
+msgid "Proxy settings for internet connection"
+msgstr ""
+
+msgid "Donate for unlock!"
+msgstr ""
+
+msgid "Check for the new version"
+msgstr ""
+
+msgid "You have already the latest version."
+msgstr ""
+
+msgid "New version ''%s'' is available at %s"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Online POIs"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Search (F3)"
+msgstr ""
+
+msgid "Not found!"
+msgstr ""
+
+msgid "Unzip error:"
+msgstr ""
+
+msgid "Invalid zip file:"
+msgstr ""
+
+msgid "Looks like download limit reached. Try it later..."
+msgstr ""
+
+msgid "Processing data, please wait..."
+msgstr ""
+
+msgid "No %s data parsed. Wrong encoding or format?"
+msgstr ""
+
+msgid "Show all on map"
+msgstr ""
+
+msgid "Check for duplicates during batch POI rebuild"
 msgstr ""

@@ -872,3 +872,6 @@ msgstr "Données %s non traitées. Encodage ou format incorrect?"
 
 msgid "Show all on map"
 msgstr "Tout visualiser sur la carte"
+
+msgid "Check for duplicates during batch POI rebuild"
+msgstr ""

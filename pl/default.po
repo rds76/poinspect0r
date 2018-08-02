@@ -862,3 +862,6 @@ msgstr ""
 
 msgid "Show all on map"
 msgstr ""
+
+msgid "Check for duplicates during batch POI rebuild"
+msgstr ""

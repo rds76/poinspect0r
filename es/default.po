@@ -871,3 +871,6 @@ msgstr "No se ha procesado los datos %s.  ¿Incorrecta codificación o formato?"
 
 msgid "Show all on map"
 msgstr "Mostarlos todos en el mapa"
+
+msgid "Check for duplicates during batch POI rebuild"
+msgstr ""

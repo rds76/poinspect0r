@@ -871,3 +871,6 @@ msgstr "Данные %s не обработаны. Неверное кодиро
 
 msgid "Show all on map"
 msgstr "Показать все на карте"
+
+msgid "Check for duplicates during batch POI rebuild"
+msgstr ""

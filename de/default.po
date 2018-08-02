@@ -871,3 +871,6 @@ msgstr "Keine %s Daten analysiert. Falsche Kodierung oder format"
 
 msgid "Show all on map"
 msgstr "Alle auf der Karte anzeigen"
+
+msgid "Check for duplicates during batch POI rebuild"
+msgstr ""

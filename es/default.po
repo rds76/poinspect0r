@@ -873,4 +873,4 @@ msgid "Show all on map"
 msgstr "Mostarlos todos en el mapa"
 
 msgid "Check for duplicates during batch POI rebuild"
-msgstr ""
+msgstr "Comprobar duplicados al regenerar el conjuto de POIs"

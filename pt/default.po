@@ -873,3 +873,9 @@ msgstr ""
 
 msgid "Check for duplicates during batch POI rebuild"
 msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "In case that above button doesn't open site, visit app homepage and you can directly donate from there"
+msgstr ""

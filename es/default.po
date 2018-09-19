@@ -874,3 +874,9 @@ msgstr "Mostarlos todos en el mapa"
 
 msgid "Check for duplicates during batch POI rebuild"
 msgstr "Comprobar duplicados al regenerar el conjuto de POIs"
+
+msgid "Alert"
+msgstr ""
+
+msgid "In case that above button doesn't open site, visit app homepage and you can directly donate from there"
+msgstr ""

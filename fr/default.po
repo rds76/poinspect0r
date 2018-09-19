@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2018-06-27 21:58+0200\n"
-"PO-Revision-Date: 2018-06-26 14:48+0200\n"
+"PO-Revision-Date: 2018-08-17 09:38+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -95,7 +95,7 @@ msgid "Map priority:"
 msgstr "Priorité carte:"
 
 msgid "Alert distance:"
-msgstr "Alerte distance:"
+msgstr "Distance d'alerte:"
 
 msgid "meters"
 msgstr "Mètre"
@@ -874,4 +874,10 @@ msgid "Show all on map"
 msgstr "Tout visualiser sur la carte"
 
 msgid "Check for duplicates during batch POI rebuild"
+msgstr ""
+
+msgid "Alert"
+msgstr "Alerte"
+
+msgid "In case that above button doesn't open site, visit app homepage and you can directly donate from there"
 msgstr ""

@@ -836,8 +836,8 @@ msgstr "Controleren op nieuwe versie"
 msgid "You have already the latest version."
 msgstr "Je hebt de reeds de laatste versie."
 
-msgid "New version ''%s'' is available at %s"
-msgstr "Een nieuwe versie  \"%S\" is beschikbaar op %S"
+msgid "New version '%s' is available at %s"
+msgstr "Een nieuwe versie  '%s' is beschikbaar op %s"
 
 msgid "Online"
 msgstr "Online"

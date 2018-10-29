@@ -837,8 +837,8 @@ msgstr "Rechercher une mise à jour"
 msgid "You have already the latest version."
 msgstr "Vous possédez déjà la dernière version"
 
-msgid "New version ''%s'' is available at %s"
-msgstr "La nouvelle version ''%s'' est disponible ici %s"
+msgid "New version '%s' is available at %s"
+msgstr "La nouvelle version '%s' est disponible ici %s"
 
 msgid "Online"
 msgstr "En ligne"

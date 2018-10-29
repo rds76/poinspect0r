@@ -835,7 +835,7 @@ msgstr ""
 msgid "You have already the latest version."
 msgstr ""
 
-msgid "New version ''%s'' is available at %s"
+msgid "New version '%s' is available at %s"
 msgstr ""
 
 msgid "Online"

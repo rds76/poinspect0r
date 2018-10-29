@@ -881,3 +881,17 @@ msgstr "Alerte"
 
 msgid "In case that above button doesn't open site, visit app homepage and you can directly donate from there"
 msgstr ""
+
+msgid ""
+"Wrong application install!?\n"
+"Missing %s '%s'."
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "Saved as"
+msgstr ""

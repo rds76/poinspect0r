@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2018-06-27 21:58+0200\n"
-"PO-Revision-Date: 2018-09-15 22:47+0200\n"
+"PO-Revision-Date: 2018-10-26 13:20+0200\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -876,3 +876,19 @@ msgstr "Upozornit"
 
 msgid "In case that above button doesn't open site, visit app homepage and you can directly donate from there"
 msgstr "V případě, že tlačítko neotevře www stánku, navštiv domovskou stránku aplikace odkud můžeš přispět"
+
+msgid ""
+"Wrong application install!?\n"
+"Missing %s '%s'."
+msgstr ""
+"Chybná instalace aplikace!?\n"
+"Chybí %s '%s'."
+
+msgid "file"
+msgstr "soubor"
+
+msgid "folder"
+msgstr "složka"
+
+msgid "Saved as"
+msgstr "Uloženo jako"

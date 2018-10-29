@@ -6,161 +6,161 @@ msgid ""
 msgstr ""
 "Project-Id-Version: POInspect0r\n"
 "POT-Creation-Date: 2018-06-27 21:58+0200\n"
-"PO-Revision-Date: 2018-07-02 13:16+0200\n"
+"PO-Revision-Date: 2018-10-29 18:56+0100\n"
 "Last-Translator: rds <l94599@email.cz>\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.2\n"
 
 msgid "New POI category"
-msgstr "Neue POI Kategorie"
+msgstr "Nieuwe POI Categorie"
 
 msgid "ID:"
 msgstr "ID:"
 
 msgid "Name:"
-msgstr "Name:"
+msgstr "Naam:"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Annuleren"
 
 msgid "POI detail"
 msgstr "POI Detail"
 
 msgid "Max map scale:"
-msgstr "Maximale Skalierung:"
+msgstr "Maximale schaal:"
 
 msgid "m"
 msgstr "m"
 
 msgid "POI data file (asc|gpx|kml|ov2):"
-msgstr "POI Datei (asc|gpx|kml|ov2):"
+msgstr "POI bestand (asc|gpx|kml|ov2):"
 
 msgid "Appand poi file to the list for future multiple rebuilding"
-msgstr "POI-Datei für Stapelverarbeitung anhängen"
+msgstr "Voeg poi-bestand toe aan de lijst voor toekomstige batch verwerking"
 
 msgid "Auto link to alpha sort category"
-msgstr "Automatischer Link zur alphabetischen Sortierung"
+msgstr "Automatisch link voor het alfabetisch sorteren van categorie"
 
 msgid "Show POI preview dialog"
-msgstr "Vorschau-Dialog anzeigen"
+msgstr "Toon POI voorvertoning"
 
 msgid "Group category"
-msgstr "Gruppenkategorie"
+msgstr "Catergoriegroep"
 
 msgid "Icon"
-msgstr "Symbol"
+msgstr "Icon"
 
 msgid "PNG images (*.png)|*.png"
-msgstr "PNG Bilder (*.png)|*.png"
+msgstr "PNG afbeelding (*.png)|*.png"
 
 msgid "New from file"
-msgstr "Neu aus Datei"
+msgstr "Nieuw uit bestand"
 
 msgid "Existing"
-msgstr "Bestehend"
+msgstr "Bestaand"
 
 msgid "Extra options"
-msgstr "Extra Einstellungen"
+msgstr "Extra opties"
 
 msgid "Auto link to similar group category (different brand)"
-msgstr "Automatischer Link zur selben Kategorie (andere POIart)"
+msgstr "Automatisshe Link naar zelfde categorie (andere POI soort)"
 
 msgid "Select item"
-msgstr "Objekt auswählen"
+msgstr "Selecteer item"
 
 msgid "Category"
-msgstr "Kategorie"
+msgstr "Categorie"
 
 msgid "Icon:"
-msgstr "Symbol:"
+msgstr "Icon:"
 
 msgid "Add translation to selected language"
-msgstr "Übersetzung zur gewählten Sprache hinzufügen"
+msgstr "Voeg vertaling toe aan geselecteerde bestand"
 
 msgid "POIs"
 msgstr "POIs"
 
 msgid "Map zoom level:"
-msgstr "Kartenskalierung:"
+msgstr "Kaart zoom niveau:"
 
 msgid "Map priority:"
-msgstr "Kartenpriorität:"
+msgstr "Kaart prioriteit:"
 
 msgid "Alert distance:"
-msgstr "Abstandswarnung:"
+msgstr "Waaschuwingsafstand:"
 
 msgid "meters"
-msgstr "Meter"
+msgstr "meter"
 
 msgid "Delete current POIs before add!"
-msgstr "Gegenwärtige POI's vor dem Hinzufügen löschen!"
+msgstr "Verwijder huidige POI's voor het toevoegen!"
 
 msgid "Batch POI rebuild"
-msgstr "Stapel POI Neuaufbau"
+msgstr "Batch vernieuwen POI"
 
 msgid "All POIs for categories listed below will be deleted and replaced with new one!"
-msgstr "Alle POIs dieser Kategerie werden gelöscht und durch neue ersetzt!"
+msgstr "Alle POI's in deze categorie zullen worden verwijderd en vervangen door nieuwe!"
 
 msgid "Run batch!"
-msgstr "Stapelbearbeitung ausführen!"
+msgstr "Start batch!"
 
 msgid "File"
-msgstr "Datei"
+msgstr "Bestand"
 
 msgid "Status"
 msgstr "Status"
 
 msgid "Icons"
-msgstr "Symbole"
+msgstr "Icons"
 
 msgid "* icon name [#used in categories]"
-msgstr "* Symbolname [#in Kategorien genutzt]"
+msgstr "* Iconnaam [#in categorieën gebruikt]"
 
 msgid "Add new icon"
-msgstr "Neues Symbol hinzufügen"
+msgstr "Nieuw icoon toevoegen"
 
 msgid "Close"
-msgstr "Schließen"
+msgstr "Sluiten"
 
 msgid "Folder import"
-msgstr "Order importieren"
+msgstr "Map importeren"
 
 msgid "Portable Network Graphics (*.png)|*.png"
 msgstr "Portable Network Graphics (*.png)|*.png"
 
 msgid "Select icon file"
-msgstr "Symboldatei auswählen"
+msgstr "Selecteer icon bestand"
 
 msgid "Select folder contains PNG{34x39} files (include subdirs)"
-msgstr "PNG Ordner auswählen PNG{34x39} files (inkl. Unterordner)"
+msgstr "Map bevat PNG{34x39} bestanden (incl. submappen)"
 
 msgid "ISO create & Burn"
-msgstr "ISO erstellen & brennen"
+msgstr "ISO maken & branden"
 
 msgid "Volume ID:"
 msgstr "Volume ID:"
 
 msgid "ISO creating progress:"
-msgstr "ISO Erstellungsprozess:"
+msgstr "ISO aanmaakproces:"
 
 msgid "- use different ID from  navi map"
-msgstr "- benutzen Sie eine andere ID from  navi map"
+msgstr "- gebruik ander ID van  navi map"
 
 msgid "Burning progress:"
-msgstr "Brennvorgang:"
+msgstr "Brand voortgang:"
 
 msgid "DVD-RW:"
 msgstr "DVD-RW:"
 
 msgid "Default language:"
-msgstr "Standardsprache:"
+msgstr "Standaard taal:"
 
 msgid "Orig.vol ID:"
 msgstr "Orig.Vol ID:"
@@ -169,16 +169,16 @@ msgid "Start"
 msgstr "Start"
 
 msgid "Burn image"
-msgstr "Image brennen"
+msgstr "Brand image"
 
 msgid "Show log"
-msgstr "Log zeigen"
+msgstr "Log tonen"
 
 msgid "Original volume ID from DVD map"
-msgstr "Original Volume ID der DVD"
+msgstr "Origineel volume ID van DVD map"
 
 msgid "Donate !!!"
-msgstr "Spenden !!!"
+msgstr "Doneren !!!"
 
 msgid "ID code:"
 msgstr "ID Code:"
@@ -190,82 +190,82 @@ msgid "DV"
 msgstr "DV"
 
 msgid "Donate"
-msgstr "Spende"
+msgstr "Doneer"
 
 msgid "Enter SN"
-msgstr "SN eingeben"
+msgstr "SN invullen"
 
 msgid "Online SN registration"
-msgstr "Online SN registration"
+msgstr "Online SN registratie"
 
 msgid "Online SN registration - how to"
-msgstr "Online SN registration - How to"
+msgstr "Online SN registratie - Hoe dan"
 
 msgid "Build in DVD POIs"
-msgstr "Integriere DVD POIs"
+msgstr "Build in DVD POIs"
 
 msgid "Disk/Folder:"
-msgstr "Laufwerk/Ordner:"
+msgstr "Disk/map:"
 
 msgid "Lang:"
-msgstr "Sprache:"
+msgstr "Taal:"
 
 msgid "DB version:"
-msgstr "DB Version:"
+msgstr "DB Versie:"
 
 msgid "Volume:"
-msgstr "Laufwerk:"
+msgstr "Schijf:"
 
 msgid "Mutli rebuild"
-msgstr "Mehrfachaufbau"
+msgstr "Multi rebuild"
 
 msgid "Create ISO && Burn DVD"
-msgstr "ISO erstellen && DVD brennen"
+msgstr "Maak ISO && Brand DVD"
 
 msgid "Area:"
-msgstr "Bereich:"
+msgstr "Gebied:"
 
 msgid "Version:"
-msgstr "Version:"
+msgstr "Versie:"
 
 msgid "Preferences"
-msgstr "Einstellungen"
+msgstr "Instellingen"
 
 msgid "Load"
 msgstr "Laden"
 
 msgid "Select RNS510 DVD map disc/folder"
-msgstr "RNS510 DVD/Ordner auswählen"
+msgstr "RNS510 DVD map disc/map"
 
 msgid "Detail"
 msgstr "Detail"
 
 msgid "Category ID:"
-msgstr "Kategorien ID:"
+msgstr "Categorie ID:"
 
 msgid "Category name:"
-msgstr "Kategorienname:"
+msgstr "Categorie naam:"
 
 msgid "Involved lines:"
-msgstr "Betroffene Zeilen:"
+msgstr "Betrokken regels:"
 
 msgid "Icon file:"
-msgstr "Symboldatei:"
+msgstr "Icon bestand:"
 
 msgid "Search attrib. values (from SADESC):"
-msgstr "Suche Attributwerte (aus SADESC):"
+msgstr "Zoek Attribuutwaarde (uit SADESC):"
 
 msgid "List attrib. values (from IADESC):"
-msgstr "Zeige Attributwerte (aus SADESC):"
+msgstr "Toon Attribuutwaarde (uit SADESC):"
 
 msgid "Search form:"
-msgstr "Suche in:"
+msgstr "Zoek in:"
 
 msgid "URL/IDX:"
 msgstr "URL/IDX:"
 
 msgid "Is group category:"
-msgstr "Ist Gruppenkategorie:"
+msgstr "Is groep categorie:"
 
 msgid "SF"
 msgstr "SF"
@@ -277,10 +277,10 @@ msgid "DB3 POIs"
 msgstr "DB3 POIs"
 
 msgid "DB3 file:"
-msgstr "DB3 Datei:"
+msgstr "DB3 bestand:"
 
 msgid "Created:"
-msgstr "Erstellt:"
+msgstr "Gemaakt:"
 
 msgid "DB ID:"
 msgstr "DB ID:"
@@ -292,124 +292,124 @@ msgid "POI ver.:"
 msgstr "POI Vers.:"
 
 msgid "Icon set:"
-msgstr "Symbolset:"
+msgstr "Icon set:"
 
 msgid "New"
-msgstr "Neue"
+msgstr "Nieuw"
 
 msgid "Reload"
-msgstr "Neu laden"
+msgstr "Ververs"
 
 msgid "Tools"
-msgstr "Tools"
+msgstr "Extra"
 
 msgid "SQLlite files (*.db3)|*.db3"
-msgstr "SQLlite Dateien (*.db3)|*.db3"
+msgstr "SQLlite bestanden (*.db3)|*.db3"
 
 msgid "POI list"
-msgstr "POI Liste"
+msgstr "POI Lijst"
 
 msgid "Zoom level:"
-msgstr "Vergrößerung:"
+msgstr "Zoom niveau:"
 
 msgid "Total rec. count:"
-msgstr "Gesamtzahl aller Einträge:"
+msgstr "Totaal rec. aantal:"
 
 msgid "Select columns"
-msgstr "Wähle Spalten"
+msgstr "Selecteer kolom"
 
 msgid "&OK"
 msgstr "&OK"
 
 msgid "At least one column must be visible!"
-msgstr "Mindestens eine Spalte muss angezeigt werden!"
+msgstr "Er moet minimaal 1 kolom zichtbaar zijn!"
 
 msgid "Name"
-msgstr "Name"
+msgstr "Naam"
 
 msgid "Map"
-msgstr "Karte"
+msgstr "Kaart"
 
 msgid "Locate on click only"
-msgstr "Nur beim Klicken zeigen"
+msgstr "Alleen bij klik laten zien"
 
 msgid "Enter search text..."
-msgstr "Suchtext eingeben..."
+msgstr "Geef de zoek tekst..."
 
 msgid "Add POI/group category"
-msgstr "POI/Gruppenkategorie hinzufügen"
+msgstr "Voeg POI/groep categorie toe"
 
 msgid "- after selected poi"
-msgstr "- hinter ausgewähltem POI"
+msgstr "- na geselecteerde POI"
 
 msgid "- before selected poi"
-msgstr "- vor ausgewähltem POI"
+msgstr "- voor geselecteerde POI"
 
 msgid "- as 1st child of selected group"
-msgstr "- als erster Untereintrag der gewählten Gruppe"
+msgstr "- als 1ste sub van geselecteerde groep"
 
 msgid "Link POI|cat - Copy/Paste"
-msgstr "Link POI|Kat. - Kopieren/Einfügen"
+msgstr "Link POI|Cat. - Kopiëren/Plakken"
 
 msgid "Copy selected"
-msgstr "Kopiere Auswahl"
+msgstr "Kopie geselecteerde"
 
 msgid "Paste after selected"
-msgstr "Einfügen nach Auswahl"
+msgstr "Plak na geselecteerde"
 
 msgid "Paste before selected"
-msgstr "Einfügen vor Auswahl"
+msgstr "Plak voor geselecteerde"
 
 msgid "Paste as 1st child of selected group"
-msgstr "Als ersten Eintrag der gewählten Gruppe einfügen"
+msgstr "Plak als 1ste sub van geselecteerde groep"
 
 msgid "Link POI|cat from selection"
-msgstr "Link POI|Kat. aus Auswahl"
+msgstr "Link POI|Kat. uit selectie"
 
 msgid "- after selected"
-msgstr "- hinter Auswahl"
+msgstr "- na geselecteerde"
 
 msgid "- before selected"
-msgstr "- vor Auswahl"
+msgstr "- voor geselecteerde"
 
 msgid "Unlink"
-msgstr "Link entfernen"
+msgstr "Link verwijderen"
 
 msgid "Unlink all occurences"
-msgstr "Alle Links entfernen"
+msgstr "Alle Links verwijderen"
 
 msgid "Delete"
-msgstr "Entfernen"
+msgstr "Verwijder"
 
 msgid "Rebuild new IDX/URL"
-msgstr "Erstelle neue IDX/URL"
+msgstr "Maak nieuwe IDX/URL"
 
 msgid "Save"
-msgstr "Speichern"
+msgstr "Opslaan"
 
 msgid "Open POI data file"
-msgstr "Öffne POI Datei"
+msgstr "Open POI data bestand"
 
 msgid "Category ID"
-msgstr "Kategorien ID"
+msgstr "Categorie ID"
 
 msgid "Icon ID"
-msgstr "Symbol ID"
+msgstr "Icon ID"
 
 msgid "Image ID"
-msgstr "Image ID"
+msgstr "Afbeelding ID"
 
 msgid "Category name"
-msgstr "Kategorien Name"
+msgstr "Categorie Naam"
 
 msgid "Height"
-msgstr "Höhe"
+msgstr "Hoogte"
 
 msgid "Width"
-msgstr "Breite"
+msgstr "Breedte"
 
 msgid "Icon Name"
-msgstr "Symbolname"
+msgstr "Icon naam"
 
 msgid "PoiID"
 msgstr "PoiID"
@@ -424,67 +424,67 @@ msgid "_ID"
 msgstr "_ID"
 
 msgid "House#"
-msgstr "Haus#"
+msgstr "Huis#"
 
 msgid "ISO Country"
 msgstr "ISO Land"
 
 msgid "Phone#"
-msgstr "Telefon#"
+msgstr "Telefoon#"
 
 msgid "Add category"
-msgstr "Kategorie hinzufügen"
+msgstr "Categorie toevoegen"
 
 msgid "- as sibling"
-msgstr "- auf gleicher Ebene"
+msgstr "- Als gelijk niveau"
 
 msgid "- as child"
-msgstr "- untergeordnet"
+msgstr "- als subniveau"
 
 msgid "Edit category"
-msgstr "Kategorie editieren"
+msgstr "Categorie bewerken"
 
 msgid "Delete category"
-msgstr "Kategorie löschen"
+msgstr "Categorie verwijderen"
 
 msgid "Add POIs"
-msgstr "POIs hinzufügen"
+msgstr "POIs toevoegen"
 
 msgid "Delete POIs"
-msgstr "POIs löschen"
+msgstr "POIs verwijderen"
 
 msgid "Extract POIs"
-msgstr "POIs rausholen"
+msgstr "POIs exporteren"
 
 msgid "Icons..."
-msgstr "Symbole..."
+msgstr "Icons..."
 
 msgid "Batch POI rebuild..."
-msgstr "POI Stapelverarbeitung..."
+msgstr "Batch POI vernieuwen..."
 
 msgid "Transfer current DB to SD card"
-msgstr "Aktuelle DB auf SD übertragen"
+msgstr "Huidige DB naar SD exporteren"
 
 msgid "Vacuum current DB"
-msgstr "Aktuelle DB bereinigen"
+msgstr "Huidige DB schoonmaken"
 
 msgid "Select SD card disk"
-msgstr "Laufwerk für SD-Karte"
+msgstr "Geslecteerde SD-Kaart"
 
 msgid "Multiple rebuild IDX/URL"
-msgstr "Neuaufbau der IDX/URL"
+msgstr "Vernieuwen van IDX/URL"
 
 msgid "Path"
-msgstr "Pfad"
+msgstr "Pad"
 
 msgid "STATUS"
 msgstr "Status"
 
 msgid "Imported POI list preview"
-msgstr "Voransicht importierter POI"
+msgstr "Te importeren POI laten zien"
 
 msgid "# of POIs: "
-msgstr "Anzahl POIs: "
+msgstr "Aantal POIs: "
 
 msgid "Lon"
 msgstr "Lon"
@@ -493,351 +493,351 @@ msgid "Lat"
 msgstr "Lat"
 
 msgid "Progress"
-msgstr "Fortschritt"
+msgstr "Voortgang"
 
 msgid "Parsing..."
-msgstr "Lese..."
+msgstr "Lezen..."
 
 msgid "Main"
-msgstr "Hauptprogramm"
+msgstr "Hoofdprogramma"
 
 msgid "Start from ID:"
-msgstr "Beginn bei ID:"
+msgstr "Begin bij ID:"
 
 msgid "Output IDX/URL:"
-msgstr "Ausgabe IDX/URL:"
+msgstr "Export IDX/URL:"
 
 msgid "POI data encoding"
-msgstr "POI Daten-Codierung"
+msgstr "POI Data-codering"
 
 msgid "Input files"
-msgstr "Eingabedateien"
+msgstr "Import files"
 
 msgid "Transfer to SD card"
-msgstr "Übertragung auf SD-Karte"
+msgstr "Overzetten naar SD-Kaart"
 
 msgid "Select SD card:"
-msgstr "SD-Karte wählen:"
+msgstr "Secteer SD-Kaart:"
 
 msgid "Final DB path:"
-msgstr "Endgültiger DB-Pfad:"
+msgstr "Opgeslagen DB-Pad:"
 
 msgid "Missing TPD-UPI tag!"
-msgstr "TPD-UPI-Wert fehlt!"
+msgstr "TPD-UPI tag ontbreekt!"
 
 msgid "Can't find TPD-UPI folder!"
-msgstr "Ordner mit TPD-UPI-Werten nicht gefunden!"
+msgstr "Kan de TPD-UPI map niet vinden!"
 
 msgid "Missing TPD-DEF(Default language) tag!"
-msgstr "Wert TPD-DEF (Standard-Sprache) fehlt!"
+msgstr "TPD-DEF tag (Standaard taal) ontbreekt!"
 
 msgid "Missing TPD-LSC(Languages list) tag!"
-msgstr "Wert TPD-LSC (Sprachen-Liste) fehlt!"
+msgstr "TPD-LSC tag ontbreekt (Taallijst)!"
 
 msgid "Can't find TABLES folder!"
-msgstr "Ordner TABLES nicht gefunden!"
+msgstr "Kan de tabellen map niet vinden!"
 
 msgid "Category has no POIs!"
-msgstr "Kategorie hat keine POI!"
+msgstr "Categorie heeft geen POI's!"
 
 msgid "Can't add poi here!"
-msgstr "Kann POI hier nicht hinzufügen!"
+msgstr "Kan hier geen POI toevoegen!"
 
 msgid "Can't add poi here. Only group category is allowed here!"
-msgstr "Kann POI hier nicht hinzufügen - nur Gruppen gestattet!"
+msgstr "Kan hier geen POI toevoegen. Alleen categoriegroep is hier toegestaan!"
 
 msgid "Icon name %s already exists in map, going to use existing one."
-msgstr "Symbol %s existiert bereits, verwende das bereits vorhandene."
+msgstr "Icoonnaam %s bestaat al, we gaan de bestaande gebruiken."
 
 msgid "Add POI done."
-msgstr "POI Hinzufügen beendet."
+msgstr "POI toevoegen voltooid."
 
 msgid "Saved."
-msgstr "Gespeichert."
+msgstr "Opgeslagen."
 
 msgid "Can't put poi here. Only group category are allowed here!"
-msgstr "Kann POI hier nicht hinzufügen - nur Gruppen gestattet!"
+msgstr "Kan hier geen POI plaatsen. Alleen categoriegroep is hier toegestaan!"
 
 msgid "Rebuild done."
-msgstr "Neuerstellung abgeschlossen."
+msgstr "Rebuild voltooid."
 
 msgid "Files:"
-msgstr "Dateien:"
+msgstr "Bestanden:"
 
 msgid "Error"
-msgstr "Fehler"
+msgstr "Fout"
 
 msgid "Cannot move category to category containing POIs!"
-msgstr "Kategorie mit enthaltenen POI kann nicht verschoben werden!"
+msgstr "Kan geen categorie verplaatsen naar een categorie die POI's bevat!"
 
 msgid "Nothing to burn!"
-msgstr "Nichts zu brennen!"
+msgstr "Niets om te branden!"
 
 msgid "DB file '%s' not found!"
-msgstr "DB-Datei '%s' nicht gefunden!"
+msgstr "DB bestand '%s' niet gevonden!"
 
 msgid "Cannot find require SQLite driver"
-msgstr "Kann benötigten SQWL-Treiber nicht finden"
+msgstr "Kan de benodigde SQLite driver niet vinden"
 
 msgid "Missing file 'customPOI.base'! Get latest proper version."
-msgstr "Datei 'customPOI.base' fehlt! Bitte aktuelle Version besorgen."
+msgstr "Bestand 'customPOI.base' ontbreekt! Download en installeer de recentste versie."
 
 msgid "New db"
-msgstr "Neue DB"
+msgstr "Nieuwe database"
 
 msgid "Enter new db3 filename"
-msgstr "Dateiname für neue db3-Datei eingeben"
+msgstr "Vul een nieuwe db3 bestandsnaam in"
 
 msgid "File '%s' already exists! Pick different name."
-msgstr "Datei '%s' existiert bereits - bitte anderen Namen wählen."
+msgstr "Bestand '%s' bestaat al - Gebruik aub een andere naam.."
 
 msgid "Entire database has been successfully rebuilded."
-msgstr "Gesamte Datenbank neu erstellt."
+msgstr "Gehele database is succesvol opgeschoond."
 
 msgid "Cannot add child category to category containing POIs!"
-msgstr "Eine Kategorie mit POI kann keine untergeordnete Kategorie enthalten!"
+msgstr "Je kan geen sub-categorie aanmaken in een categorie die POI's bevat!"
 
 msgid "File '"
-msgstr "Datei '"
+msgstr "Bestand '"
 
 msgid ""
 "' not found!\n"
 "Add some POIs 1st."
 msgstr ""
-"' nicht gefunden!\n"
-"Zuerst einige POI hinzufügen."
+"' niet gevonden!\n"
+"Voeg eerst een aantal POI's toe."
 
 msgid ""
 "No input file found! [%s]\n"
 "Create it or use addPOI with this feature."
 msgstr ""
-"Eingabedatei nicht gefunden! [%s]\n"
-"Erstellen, oder addPOI hierbei verwenden."
+"Geen input file gevonden! [%s]\n"
+"Maak het aan of gebruik POI toevoegen om dit te doen."
 
 msgid "Rebuild (vacuum) entire DB and copy to SD card?"
-msgstr "Gesamte DB bereinigen und auf SD-Karte kopieren?"
+msgstr "Gehele database opschonen en naar de SD-kaart kopieren?"
 
 msgid "File '%s' already exists. Remove the file then repeat action!"
-msgstr "Datei '%s' bereits vorhanden. Diese Datei manuell löschen und dann Schritt wiederholen!"
+msgstr "Bestand '%s' bestaat al. Verwijder dit bestand en herhaal deze actie!"
 
 msgid ""
 "Successfully copied as '%s'.\n"
 "Remove SD card and take it to the car...:-)"
 msgstr ""
-"Erfolgreich kopiert als '%s'.\n"
-"SD-Karte entnehmen und ins Auto bringen...:-)"
+"Succesvol gekopieerd als '%s'.\n"
+"je kan de SD-Kaart nu naar de auto brengen...:-)"
 
 msgid "Are you sure to unlink selected item?"
-msgstr "Sind Sie sicher, daß Sie die gewählten Elemente entkoppeln wollen?"
+msgstr "Weet je zeker dat je dit item wilt ontkoppelen?"
 
 msgid "Can't unlink POI!"
-msgstr "Kann POI nicht entkoppeln!"
+msgstr "Kan POI niet ontkoppelen!"
 
 msgid "Unlink POI done."
-msgstr "POI entkoppelt."
+msgstr "POI ontkoppeld."
 
 msgid "Unlink POIs done."
-msgstr "POI entkoppelt."
+msgstr "POI ontkoppeld."
 
 msgid "Are you sure to unlink all occurences of selected item?"
-msgstr "Sind Sie sicher, daß Sie alle gewählten Elemente entkoppeln wollen?"
+msgstr "Weet u zeker dat u alle voorvallen van het geselecteerde item wilt ontkoppelen?"
 
 msgid "Delete POI done."
-msgstr "POI gelöscht."
+msgstr "POI verwijderd."
 
 msgid "Delete all pois for this category?"
-msgstr "Alle POI dieser Kategorie löschen?"
+msgstr "Verwijder alle POI's in deze categorie?"
 
 msgid "Icon details"
-msgstr "Symbol Details"
+msgstr "Icon details"
 
 msgid "Image dimensions"
-msgstr "Bildgröße"
+msgstr "Afbeeldingsgrootte"
 
 msgid "Category details"
-msgstr "Kategorie-Details"
+msgstr "Categorie details"
 
 msgid "POI details"
 msgstr "POI Details"
 
 msgid "Are you sure to delete selected item?"
-msgstr "Sind Sie sicher, daß Sie das gewählte Elemente löschen wollen?"
+msgstr "Weet je zeker dat je alle geselecteerde items wilt verwijderen?"
 
 msgid "Cannot delete this category!"
-msgstr "Kann diese Kategorie nicht löschen!"
+msgstr "Kan deze catergorie niet verwijderen!"
 
 msgid "Delete category '%s' ?"
-msgstr "Kategorie '%s' löschen ?"
+msgstr "Categorie '%s' verwijderen?"
 
 msgid "Cannot add POIs to parent category!"
-msgstr "Kann POI nicht zu übergeordnteter Kategorie hinzufügen!"
+msgstr "Kan geen POI's toevoegen aan de hoofdcategorie!"
 
 msgid "[Unlinked items]"
-msgstr "[entfernte Elemente]"
+msgstr "[Niet gelinkte items]"
 
 msgid "Fill all required values!"
-msgstr "Alle erforderlichen Werte eingeben!"
+msgstr "Vul alle benodigde informatie in!"
 
 msgid "Icon name '%s' already exist, select another name!"
-msgstr "Symbol '%s' bereits vorhanden, bitte anderen Namen wählen!"
+msgstr "Icon naam '%s' bestaat al, selecteer een andere naam!"
 
 msgid "Ready."
-msgstr "Bereit."
+msgstr "Klaar."
 
 msgid "File not found!"
-msgstr "Datei nicht gefunden!"
+msgstr "Bestand niet gevonden!"
 
 msgid "Category not found!"
-msgstr "Kategorie nicht gefunden!"
+msgstr "Categorie niet gevonden!"
 
 msgid "Clearing old POIs..."
-msgstr "Bereinige alte POIs..."
+msgstr "Oude POIs opschonen..."
 
 msgid "Importing POIs..."
-msgstr "Importiere POIs..."
+msgstr "POIs importeren..."
 
 msgid "Done."
-msgstr "Fertig."
+msgstr "Klaar."
 
 msgid "Skipped."
-msgstr "Übersprungen."
+msgstr "Overgeslagen."
 
 msgid "Batch job finished!"
-msgstr "Stapelverarbeitung beendet!"
+msgstr "Batchtaak klaar!"
 
 msgid "Icon name '%s' already exists!"
-msgstr "Symbol '%s' bereits vorhanden!"
+msgstr "Icon naam %s bestaat al!"
 
 msgid "Wrong image size (34x39)! File:"
-msgstr "Falsche Bildgröße (nicht 34x39) bei Datei:"
+msgstr "Verkeerd afbeeldingsgrootte (nieit 34x39) in bestand:"
 
 msgid "Make sure you have inserted empty DVD disk in dvd drive %s !"
-msgstr "Stellen Sie sicher, daß ein DVD-Rohling in Laufwerk %s ist!"
+msgstr "Wees er zeker van dat je een lege DVD in de dvd drive %s hebt gedaan!"
 
 msgid "DONE."
-msgstr "Fertig."
+msgstr "Klaar."
 
 msgid "Wait (%ds)"
-msgstr "Warten (%ds)"
+msgstr "Wacht (%ds)"
 
 msgid ""
 "To avoid this message and to get full functionality,  donate at least %s.           I guess, that it doesn't ruin you and you can support future development.\n"
 "Then you can register online with assigned Paypal transaction number."
 msgstr ""
-"Um diesen Hinweis loszuwerden und um volle Funkionalität zu erhalten,spenden Sie mindestens %s. Das dürfte Sie nicht in den Ruin stürzen und Sie unterstützendie Weiterentwicklung.\n"
-"Then you can register online with assigned Paypal transaction number."
+"Om deze melding te voorkomen en alle functie te krijgen, doneer minimaar %s..           Ik denk iedereen dat wel kan missen en je ondersteund de support en toekomstige ontwikkeling.\n"
+"Daarna kan je je registreren met het toegewezen PayPal transactienummer."
 
 msgid "Serial:"
-msgstr "Serien-Nummer:"
+msgstr "Serienummer:"
 
 msgid "Please restart application."
-msgstr "Bitte Anwendung neu starten."
+msgstr "Start de applicatie opnieuw op aub."
 
 msgid "Registration"
-msgstr "Registrierung"
+msgstr "Registratie"
 
 msgid "Enter PayPal transaction ID (Confirmation number)"
-msgstr "PayPal Transaction-ID (Bestätigungsnumer)"
+msgstr "Vul PayPal Transactie-ID in (Bevestigingsnummer)"
 
 msgid "Response error:"
-msgstr "Antwort-Fehler:"
+msgstr "Antwoord fout:"
 
 msgid "building..."
-msgstr "Erstellung läuft ..."
+msgstr "verwerken ..."
 
 msgid "done."
-msgstr "fertig."
+msgstr "klaar."
 
 msgid "ID not found."
-msgstr "ID nicht gefunden."
+msgstr "ID niet gevonden."
 
 msgid "file not found."
-msgstr "Datei nicht gefunden."
+msgstr "bestand niet gevonden."
 
 msgid "skipped"
-msgstr "übersprungen"
+msgstr "overgeslagen"
 
 msgid "Unknown file extension!"
-msgstr "Unbekannte Dateiendung!"
+msgstr "Onbekend betandsextensie!"
 
 msgid "Language"
-msgstr "Sprache"
+msgstr "Taal"
 
 msgid "Program"
-msgstr "Programm"
+msgstr "Programma"
 
 msgid "Check for duplicate coordinates"
-msgstr "Auf doppelte Koordinaten prüfen"
+msgstr "Controleer op dubbele coordinaten"
 
 msgid "*Only for some Discover units. Value >0 makes it warnable."
-msgstr "*Nur für einige Discover Systeme. Werte >0 ermöglichen Hinweiston."
+msgstr "*Alleen voor sommige Divover systemen. Waarde >0 maakt het alarmeerbaar."
 
 msgid "Drop unused icons"
-msgstr "Nicht benötigte Icons verwerfen"
+msgstr "Verwijder ongebruikte iconen"
 
 msgid "Enable 39x39 icons (only for Discover units!!!!)"
-msgstr "Icongröße 39x39 aktivieren (nur für Discover-Geräte)"
+msgstr "Activeer  39x39 iconen (alleen voor Discover apparaten)"
 
 msgid "Select SD card / Flash disk:"
-msgstr "Laufwerk SD-Karte wählen:"
+msgstr "Selecteer SD-kaart / Flash disk:"
 
 msgid "*Note: All categories are exported into root level "
-msgstr "Hinweis: alle Kategorien werden als 'Root' exportiert "
+msgstr "*Opmerking: alle categorieën worden in de 'Root' geëxporteerd "
 
 msgid "City"
-msgstr "Stadt"
+msgstr "Stad"
 
 msgid "Country"
 msgstr "Land"
 
 msgid "Region"
-msgstr "Region"
+msgstr "Regio"
 
 msgid "Street"
-msgstr "Straße"
+msgstr "Straat"
 
 msgid ""
 "Successfully exported to disk '%s'.\n"
 "Remove SD card and take it to the car with Discover navi system...:-)"
 msgstr ""
-"Erfolgreich kopiert auf Laufwerk '%s'.\n"
-"SD-Karte entnehmen und ins Auto mit Discover-Gerät bringen...:-)"
+"Succesvol geëxporteerd naar disk '%s'.\n"
+"Verwijder de SD-kaart en neem deze mee naar de auto...:-)"
 
 msgid "Delete POI"
-msgstr "POI löschen"
+msgstr "POI verwijderen"
 
 msgid "Village"
-msgstr "Ort"
+msgstr "Plaats"
 
 msgid "Donated version."
-msgstr "Version wurde mit Spende unterstütztt."
+msgstr "Doneer en krijg alle functies."
 
 msgid "Donate for unlock all functions!"
-msgstr "Spenden um alle Funktionen zu aktivieren!"
+msgstr "Doneer om alle functie te verkrijgen!"
 
 msgid "Radius in meters to find duplicates (square area):"
-msgstr "Radius in m (Quadratfläche) für Suche nach Duplikaten:"
+msgstr "Radius in m (vierkant) om duplicaten te vinden:"
 
 msgid "Leave empty to disable"
-msgstr "Für Deaktivieren leer lassen"
+msgstr "Laat leeg om uit te schakelen"
 
 msgid "Use system settings"
-msgstr "Systemeinstellungen verwenden"
+msgstr "Gebruik systeeminstellingen"
 
 msgid "Proxy settings for internet connection"
-msgstr "Proxy-Einstellungen zum Internet-Zugang"
+msgstr "Proxy instellingen voor internettoegang"
 
 msgid "Donate for unlock!"
-msgstr "Spenden, um zu entsperren!"
+msgstr "Doneer en krijg alle functies!"
 
 msgid "Check for the new version"
-msgstr "Prüfung der neuen Version"
+msgstr "Controleren op nieuwe versie"
 
 msgid "You have already the latest version."
-msgstr "Sie haben bereits die neueste version."
+msgstr "Je hebt de reeds de laatste versie."
 
 msgid "New version ''%s'' is available at %s"
-msgstr "Neue version ''%s'' ist verfügbar bei %s"
+msgstr "Een nieuwe versie  \"%S\" is beschikbaar op %S"
 
 msgid "Online"
 msgstr "Online"
@@ -846,37 +846,51 @@ msgid "Online POIs"
 msgstr "Online POIs"
 
 msgid "Search:"
-msgstr "Suhe:"
+msgstr "Zoek:"
 
 msgid "Search (F3)"
-msgstr "Suche (F3)"
+msgstr "Zoeken (F3)"
 
 msgid "Not found!"
-msgstr "Nicht gefunden!"
+msgstr "Niet gevonden!"
 
 msgid "Unzip error:"
-msgstr "Unzip Fehler:"
+msgstr "Unzip Fout:"
 
 msgid "Invalid zip file:"
-msgstr "Ungültige zip-Datei:"
+msgstr "Ongeldig zip-bestand:"
 
 msgid "Looks like download limit reached. Try it later..."
-msgstr "Es scheint, Download-Limit erreicht. Versuchen Sie es später..."
+msgstr "Het lijkt er op dat de download limiet is bereikt. Probeer het later nog eens..."
 
 msgid "Processing data, please wait..."
-msgstr "Dateivearbeitung, bitte warten..."
+msgstr "Bezig met verwerken, even geduld..."
 
 msgid "No %s data parsed. Wrong encoding or format?"
-msgstr "Keine %s Daten analysiert. Falsche Kodierung oder format"
+msgstr "Geen %s data Verwerkt. Verkeerde codering of formaat?"
 
 msgid "Show all on map"
-msgstr "Alle auf der Karte anzeigen"
+msgstr "Op alle kaarten tonen"
 
 msgid "Check for duplicates during batch POI rebuild"
-msgstr ""
+msgstr "Controleer  op duplicaten tijdens batch POI vernieuwen"
 
 msgid "Alert"
-msgstr ""
+msgstr "Waarschuwing"
 
 msgid "In case that above button doesn't open site, visit app homepage and you can directly donate from there"
+msgstr "Wanneer de knop hier boven de website niet opent, bezoek dan de homepage en doneer van uit daar"
+
+msgid ""
+"Wrong application install!?\n"
+"Missing %s '%s'."
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "Saved as"
 msgstr ""

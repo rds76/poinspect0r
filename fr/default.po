@@ -895,3 +895,9 @@ msgstr ""
 
 msgid "Saved as"
 msgstr ""
+
+msgid ""
+"*Hint: When navigation unit won't recognize imported data, try folowing:\n"
+" 1) Format card as FAT32 with 32kB cluster size\n"
+" 2) For MIB unit try both options"
+msgstr ""
